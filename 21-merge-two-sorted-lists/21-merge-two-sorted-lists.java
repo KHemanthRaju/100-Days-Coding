@@ -22,10 +22,15 @@ class Solution {
             }
             start = start.next;
         }
-        if (l1 != null) {
+        while(l1 != null) {
             start.next = l1;
-        } else if (l2 != null) {
+            l1=l1.next;
+            start=start.next;
+        }
+        while(l2 != null) {
             start.next = l2;
+            l2=l2.next;
+            start=start.next;
         }
         return head.next;
     }
