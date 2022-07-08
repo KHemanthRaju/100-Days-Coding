@@ -35,14 +35,6 @@ class Solution {
                 queue.addAll(q1.children);
             }
             ans.add(res);
-			// List<Integer> current = new ArrayList<>(); // inorder to store the current level items
-			// int size = queue.size();
-			// for (int i=0; i<size; i++) {
-			// 	Node temp = queue.poll(); // pop out the first element from the queue.
-			// 	current.add(temp.val);   // add the element into current list.
-			// 	queue.addAll(temp.children); // add all the children of the node to the queue.
-			// }
-			// ans.add(current);
         }
         return ans;
     }
