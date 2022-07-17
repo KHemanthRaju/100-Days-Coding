@@ -27,10 +27,4 @@ class Solution {
         helper(root.left);
         helper(root.right);
     }
-    public void swap(TreeNode node1, TreeNode node2){
-        
-        TreeNode temp = node1;
-        node1 = node2;
-        node2 = temp;
-    }
 }
