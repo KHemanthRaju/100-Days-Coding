@@ -26,7 +26,6 @@ class Solution {
              for(int i=0;i<size;i++){
               TreeNode present = q.poll();
               ans.add(present.val);
-            //    if(i%2 !=0) Collections.reverse(ans);
               if(present.left != null) q.add(present.left);
               if(present.right != null) q.add(present.right);
               
