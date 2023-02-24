@@ -7,12 +7,10 @@ class Solution {
                 ans+=s1.charAt(i);
             }
         }
-        // System.out.println(ans);
-        StringBuilder str = new StringBuilder();
-        str.append(ans);
-        String str2 = str.reverse().toString();
-        // System.out.println(str2);
-        if(ans.equals(str2)){
+        StringBuilder s2 = new StringBuilder();
+        s2.append(ans);
+        String s3 = s2.reverse().toString();
+        if(ans.equals(s3)){
             return true;
         }
         return false;
