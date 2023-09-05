@@ -28,19 +28,15 @@ class GFG
 
 //User function Template for Java
 class Solution{
-    static long fact(long N){
-        if(N==0 || N==1){
-            return 1;
-        }
-        return N*fact(N-1);
-    }
     static ArrayList<Long> factorialNumbers(long N){
         // code here
         ArrayList<Long> ans = new ArrayList<>();
-        long i=1;
-        while(fact(i)<=N){
-            ans.add(fact(i));
-            i++;
+        long fact = 1;
+        long a = 2;
+        while(fact<=N){
+            ans.add(fact);
+            fact = fact*a;
+            a++;
         }
         return ans;
     }
