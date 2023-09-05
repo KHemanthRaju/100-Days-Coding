@@ -24,27 +24,20 @@ class GFG
 //User function Template for Java
 
 class Solution{
-    static boolean isPrime(int N){
-        if(N==0 || N==1){
-            return false;
-        }
-        for(int i=2;i*i<=N;i++){
-            if(N%i==0){
-                return false;
-            }
-        }
-        return true;
-    }
     static long primeProduct(int N) 
     { 
         // code here
         long ans = 1;
-        for(int i=2;i<=N;i++){
+        for(int i=2;i*i<=N;i++){
             if(N%i==0){
-            if(isPrime(i)){
-                ans = ans*i;
+                ans*=i;
+                while(N%i==0){
+                    N=N/i;
+                }
             }
-            }
+        }
+        if(N>1){
+            ans*=N;
         }
         return ans;
     }
