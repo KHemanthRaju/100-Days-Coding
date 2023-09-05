@@ -44,6 +44,7 @@ class Solution{
                 }
             }
         }
+        
         if(N>2){
             ans*=N;
         }
