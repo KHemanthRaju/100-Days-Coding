@@ -38,7 +38,7 @@ class Solution{
         arr[1] = false;
         for(int i=2;i<=N;i++){
             if(arr[i]==true){
-                for(int j=2*i;j<=N;j=j+i){
+                for(int j=i*i;j<=N;j=j+i){
                     arr[j]=false;
                 }
             }
