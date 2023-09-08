@@ -28,22 +28,23 @@ class GFG
 
 //User function Template for Java
 class Solution{
-    static boolean isPrime(int N){
-        if(N==1){
-            return false;
-        }
-        for(int i=2;i*i<=N;i++){
-            if(N%i==0){
-                return false;
-            }
-        }
-        return true;
-    }
+        // code here
     static ArrayList<Integer> sieveOfEratosthenes(int N){
         // code here
         ArrayList<Integer> ans = new ArrayList<Integer>();
-        for(int i=1;i<=N;i++){
-            if(isPrime(i)){
+        boolean arr[] = new boolean[N+1];
+        Arrays.fill(arr,true);
+        arr[0] = false;
+        arr[1] = false;
+        for(int i=2;i<=N;i++){
+            if(arr[i]==true){
+                for(int j=2*i;j<=N;j=j+i){
+                    arr[j]=false;
+                }
+            }
+        }
+        for(int i=2;i<=N;i++){
+            if(arr[i]==true){
                 ans.add(i);
             }
         }
