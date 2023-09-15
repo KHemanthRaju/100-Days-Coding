@@ -8,11 +8,17 @@ class Solution {
         }
         String str = x+"";
         String ans = "";
-        while(x!=0){
-            int rem = x%10;
-            ans+=rem;
-            x = x/10;
+        int l = 0;
+        int r = str.length()-1;
+        while(l<=r){
+            char ch1 = str.charAt(l);
+            char ch2 = str.charAt(r);
+            if(ch1 != ch2){
+                return false;
+            }
+            l++;
+            r--;
         }
-        return str.equals(ans);
+        return true;
     }
 }
