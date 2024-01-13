@@ -1,7 +1,5 @@
 class Solution {
     
-    
-    
     public List<Integer> getElementsOnlyInFirstList(int[] nums1, int[] nums2) {
         Set<Integer> ans = new HashSet<>();
         for(int num:nums1){
