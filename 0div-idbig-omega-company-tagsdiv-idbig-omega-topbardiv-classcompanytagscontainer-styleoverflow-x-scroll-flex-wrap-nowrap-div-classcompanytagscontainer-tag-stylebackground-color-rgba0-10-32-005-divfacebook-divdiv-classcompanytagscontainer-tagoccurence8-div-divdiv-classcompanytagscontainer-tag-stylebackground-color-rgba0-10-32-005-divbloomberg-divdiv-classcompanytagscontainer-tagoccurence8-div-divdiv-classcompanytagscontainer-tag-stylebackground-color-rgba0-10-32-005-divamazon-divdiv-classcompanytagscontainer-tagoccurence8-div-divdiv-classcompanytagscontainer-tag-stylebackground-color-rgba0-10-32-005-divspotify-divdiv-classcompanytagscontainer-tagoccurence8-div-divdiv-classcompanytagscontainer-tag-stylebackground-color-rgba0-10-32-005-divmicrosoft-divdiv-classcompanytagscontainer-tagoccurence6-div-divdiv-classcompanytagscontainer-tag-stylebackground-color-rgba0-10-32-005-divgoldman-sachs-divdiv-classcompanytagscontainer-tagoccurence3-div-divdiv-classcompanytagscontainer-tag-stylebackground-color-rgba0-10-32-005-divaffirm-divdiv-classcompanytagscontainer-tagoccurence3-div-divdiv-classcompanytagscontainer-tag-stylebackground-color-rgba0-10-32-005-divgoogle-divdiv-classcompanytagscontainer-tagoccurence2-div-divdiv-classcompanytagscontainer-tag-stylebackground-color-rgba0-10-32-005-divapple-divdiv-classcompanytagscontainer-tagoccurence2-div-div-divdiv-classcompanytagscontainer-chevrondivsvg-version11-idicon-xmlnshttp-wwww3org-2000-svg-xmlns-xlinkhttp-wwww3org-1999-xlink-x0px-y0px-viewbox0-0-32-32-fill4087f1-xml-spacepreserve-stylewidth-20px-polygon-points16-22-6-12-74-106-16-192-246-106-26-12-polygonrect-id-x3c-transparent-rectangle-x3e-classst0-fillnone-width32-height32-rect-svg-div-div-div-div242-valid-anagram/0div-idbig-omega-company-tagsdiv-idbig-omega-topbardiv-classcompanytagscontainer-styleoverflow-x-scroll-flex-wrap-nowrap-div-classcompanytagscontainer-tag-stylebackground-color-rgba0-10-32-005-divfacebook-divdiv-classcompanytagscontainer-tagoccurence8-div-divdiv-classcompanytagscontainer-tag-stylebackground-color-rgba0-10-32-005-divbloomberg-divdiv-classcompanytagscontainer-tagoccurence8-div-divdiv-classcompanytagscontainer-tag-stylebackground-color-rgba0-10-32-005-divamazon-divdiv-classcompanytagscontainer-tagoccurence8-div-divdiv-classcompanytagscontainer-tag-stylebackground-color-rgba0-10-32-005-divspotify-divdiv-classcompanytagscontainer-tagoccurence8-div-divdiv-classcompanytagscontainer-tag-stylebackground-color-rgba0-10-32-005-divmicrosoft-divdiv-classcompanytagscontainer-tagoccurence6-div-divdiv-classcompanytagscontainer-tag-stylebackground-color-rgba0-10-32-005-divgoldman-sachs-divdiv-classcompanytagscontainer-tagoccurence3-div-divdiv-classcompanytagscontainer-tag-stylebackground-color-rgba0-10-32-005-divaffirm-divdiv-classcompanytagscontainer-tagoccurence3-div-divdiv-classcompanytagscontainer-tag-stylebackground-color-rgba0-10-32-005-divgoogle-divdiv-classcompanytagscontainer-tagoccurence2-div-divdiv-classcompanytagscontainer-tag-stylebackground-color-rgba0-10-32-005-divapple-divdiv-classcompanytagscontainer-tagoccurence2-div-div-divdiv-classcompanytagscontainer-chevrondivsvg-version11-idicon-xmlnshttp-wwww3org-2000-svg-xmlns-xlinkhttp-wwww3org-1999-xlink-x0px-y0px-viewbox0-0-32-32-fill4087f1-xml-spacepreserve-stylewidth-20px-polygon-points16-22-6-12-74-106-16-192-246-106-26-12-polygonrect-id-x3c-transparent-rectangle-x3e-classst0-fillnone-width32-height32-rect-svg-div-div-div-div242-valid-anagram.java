@@ -4,13 +4,18 @@ class Solution {
             return false;
         }
         
-        char[] str1 = s.toCharArray();
-        char[] str2 = t.toCharArray();
-        Arrays.sort(str1);
-        Arrays.sort(str2);
+        int[] ans = new int[26];
         
-        for(int i=0,j=0;i<s.length();i++,j++){
-            if(str1[i]!=str2[j]){
+        for(int i=0;i<s.length();i++){
+            ans[s.charAt(i)-'a']++;
+        }
+        
+        for(int i=0;i<t.length();i++){
+            ans[t.charAt(i)-'a']--;
+        }
+        
+        for(int i:ans){
+            if(i!=0){
                 return false;
             }
         }
