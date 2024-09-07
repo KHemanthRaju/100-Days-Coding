@@ -24,6 +24,7 @@ class Solution {
         st.append(root.val);
         st.append(preOrderTraversal(root.left));
         st.append(preOrderTraversal(root.right));
+        System.out.println(st);
             
         return st.toString();
     }
