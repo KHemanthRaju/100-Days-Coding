@@ -30,15 +30,10 @@ class Solution {
     }
     
     public void dfs(int i, Map<Integer, List<Integer>> map, Set<Integer> visited){
-        Stack<Integer> st = new Stack<>();
-        st.push(i);
-        while(!st.isEmpty()){
-            int curr = st.pop();
-            if(!visited.contains(curr)){
-                visited.add(curr);
-                for(int neighbor:map.get(curr)){
-                    dfs(neighbor,map,visited);
-                }
+        if(!visited.contains(i)){
+            visited.add(i);
+            for(int neighbor: map.get(i)){
+                dfs(neighbor, map, visited);
             }
         }
     }
