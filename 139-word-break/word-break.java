@@ -14,7 +14,6 @@ class Solution {
                 }
                 if(dp[j] && wordDict.contains(s.substring(j,i))){
                     dp[i]=true;
-                    break;
                 }
             }
         }
