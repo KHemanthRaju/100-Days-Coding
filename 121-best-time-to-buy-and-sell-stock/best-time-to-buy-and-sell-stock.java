@@ -11,7 +11,6 @@ class Solution {
                 max = prices[i] - min;
             }
         }
-        
         return max;
     }
 }
