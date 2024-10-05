@@ -3,16 +3,16 @@ class Solution {
         int ans = 0;
         int left = 0;
         int right = height.length-1;
-        while(left<right){
-            int findMin = Math.min(height[left],height[right])*(right-left);
-            ans = Math.max(findMin,ans);
+        
+        while(left < right){
+            ans = Math.max(ans, Math.min(height[left], height[right])*(right-left));
             if(height[left]<height[right]){
                 left++;
             }else{
                 right--;
             }
         }
-        return ans;
         
+        return ans;
     }
 }
