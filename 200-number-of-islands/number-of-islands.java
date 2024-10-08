@@ -6,31 +6,28 @@ class Solution {
         
         int numRows = grid.length;
         int numCols = grid[0].length;
-        int isLandsCount = 0;
+        int numOfIslands = 0;
         
         for(int i=0;i<numRows;i++){
             for(int j=0;j<numCols;j++){
-                if(grid[i][j] == '1'){
-                    isLandsCount++;
+                if(grid[i][j]=='1'){
+                    numOfIslands++;
                     dfs(grid, i, j);
                 }
             }
         }
-        return isLandsCount;
+        return numOfIslands;
     }
     
-    public void dfs(char[][] grid, int row, int col){
-        int numRows = grid.length;
-        int numCols = grid[0].length;
-        
-        if(row<0 || row>=numRows || col<0 || col>=numCols || grid[row][col]=='0'){
+    public void dfs(char[][] grid, int rows, int cols){
+        if(rows<0 || rows>=grid.length || cols<0 || cols>=grid[0].length || grid[rows][cols]=='0'){
             return;
         }
         
-        grid[row][col] = '0';
-        dfs(grid, row+1, col);
-        dfs(grid, row-1, col);
-        dfs(grid, row, col+1);
-        dfs(grid, row, col-1);
+        grid[rows][cols]='0';
+        dfs(grid, rows+1, cols);
+        dfs(grid, rows-1, cols);
+        dfs(grid, rows, cols+1);
+        dfs(grid, rows, cols-1);
     }
 }
