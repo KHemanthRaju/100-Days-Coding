@@ -1,22 +1,13 @@
 class Solution {
-    
     public int climbStairs(int n) {
-        return helper(0,n,new HashMap<Integer,Integer> ());
-    }
-    
-    public int helper(int curr,int target,HashMap<Integer,Integer> memo){
-        if(curr == target) return 1;
-        if(curr>target) return 0;
-        
-        int current = curr;
-        
-        if(memo.containsKey(current)) return memo.get(current);
-        
-        int onestep = helper(curr+1,target,memo);
-        int twostep = helper(curr+2,target,memo);
-        
-        memo.put(current,onestep+twostep);
-        
-        return memo.get(current);
+        if(n<=1) return n;
+        int[] dp = new int[n+1];
+        dp[0]=0;
+        dp[1]=1;
+        dp[2]=2;
+        for(int i=3;i<=n;i++){
+            dp[i] = dp[i-1]+dp[i-2];
+        }
+        return dp[n];
     }
 }
