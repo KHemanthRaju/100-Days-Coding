@@ -5,7 +5,6 @@ class Solution {
         HashSet<Character> set = new HashSet<>();
 
         for(int j=0;j<s.length();j++){
-
             
             while(set.contains(s.charAt(j)) ||j-i+1>3){
                 set.remove(s.charAt(i));
