@@ -11,9 +11,6 @@ class Solution {
                 i++;
             }
             set.add(s.charAt(j));
-            if(j-i+1<3){
-                continue;
-            }
             
             if(j-i+1==3){
                 max_count++;
