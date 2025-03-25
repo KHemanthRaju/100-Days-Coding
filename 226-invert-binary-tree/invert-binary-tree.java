@@ -18,7 +18,7 @@ class Solution {
         helper(root);
         return root;
     }
-    
+
     public void helper(TreeNode root){
         if(root==null) return;
         TreeNode temp = root.left;
@@ -27,5 +27,4 @@ class Solution {
         helper(root.left);
         helper(root.right);
     }
-    
 }
