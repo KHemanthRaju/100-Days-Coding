@@ -9,11 +9,13 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0567-permutation-in-string) |
+| [0049-group-anagrams](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0567-permutation-in-string) |
+| [0049-group-anagrams](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -23,4 +25,12 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0567-permutation-in-string) |
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
