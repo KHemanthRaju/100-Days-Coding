@@ -11,5 +11,6 @@ class Solution(object):
             if sorted_word not in adict:
                 adict[sorted_word] = []
             adict[sorted_word].append(word)
+
         return list(adict.values())
         
