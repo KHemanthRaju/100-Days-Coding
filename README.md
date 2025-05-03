@@ -27,6 +27,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0567-permutation-in-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0347-top-k-frequent-elements](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0347-top-k-frequent-elements) |
 | [0238-product-of-array-except-self](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0238-product-of-array-except-self) |
 | [0128-longest-consecutive-sequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -67,4 +69,8 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
