@@ -11,6 +11,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0567-permutation-in-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0567-permutation-in-string) |
 | [0049-group-anagrams](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0347-top-k-frequent-elements) |
+| [0128-longest-consecutive-sequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0049-group-anagrams](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0347-top-k-frequent-elements) |
 | [0238-product-of-array-except-self](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0238-product-of-array-except-self) |
+| [0128-longest-consecutive-sequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0128-longest-consecutive-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -61,4 +63,8 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
