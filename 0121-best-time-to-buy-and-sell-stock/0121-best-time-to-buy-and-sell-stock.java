@@ -3,16 +3,14 @@ class Solution {
         int minVal = prices[0];
         int maxProfit = 0;
 
-        for(int i=1;i<prices.length;i++){
-            if(minVal>prices[i]){
-                minVal = prices[i];
+        for(int price : prices){
+            if(minVal>price){
+                minVal = price;
             }
-
-            if(maxProfit<prices[i]-minVal){
-                maxProfit = prices[i]-minVal;
+            if(maxProfit < price - minVal){
+                maxProfit = price - minVal;
             }
         }
-
         return maxProfit;
     }
 }
