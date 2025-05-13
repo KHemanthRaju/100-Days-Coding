@@ -23,6 +23,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0049-group-anagrams](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0242-valid-anagram) |
 | [0125-valid-palindrome](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0125-valid-palindrome) |
+| [0020-valid-parentheses](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -91,4 +92,8 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
