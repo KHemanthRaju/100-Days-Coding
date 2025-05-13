@@ -22,6 +22,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0567-permutation-in-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0567-permutation-in-string) |
 | [0049-group-anagrams](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0242-valid-anagram) |
+| [0125-valid-palindrome](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -33,6 +34,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0567-permutation-in-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0567-permutation-in-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0015-3sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
