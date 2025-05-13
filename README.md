@@ -12,6 +12,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0049-group-anagrams](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0347-top-k-frequent-elements) |
 | [0128-longest-consecutive-sequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -39,12 +40,14 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0015-3sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0347-top-k-frequent-elements) |
 | [0015-3sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
