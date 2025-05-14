@@ -48,6 +48,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0217-contains-duplicate) |
 | [0001-two-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0001-two-sum) |
+| [0792-binary-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +89,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
