@@ -105,8 +105,10 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | ------- |
 | [0206-reverse-linked-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0206-reverse-linked-list) |
 | [0141-linked-list-cycle](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0141-linked-list-cycle) |
+| [0021-merge-two-sorted-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0206-reverse-linked-list) |
+| [0021-merge-two-sorted-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
