@@ -118,6 +118,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0104-maximum-depth-of-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0110-balanced-binary-tree) |
+| [0100-same-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -125,11 +126,13 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0104-maximum-depth-of-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0110-balanced-binary-tree) |
+| [0100-same-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0226-invert-binary-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0100-same-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -137,4 +140,5 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0104-maximum-depth-of-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0110-balanced-binary-tree) |
+| [0100-same-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
