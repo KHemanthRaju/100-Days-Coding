@@ -51,6 +51,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0217-contains-duplicate](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0217-contains-duplicate) |
 | [0001-two-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0001-two-sum) |
 | [0792-binary-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0792-binary-search) |
+| [1127-last-stone-weight](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1127-last-stone-weight) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +69,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
