@@ -52,6 +52,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0001-two-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0001-two-sum) |
 | [0792-binary-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0792-binary-search) |
 | [1127-last-stone-weight](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1127-last-stone-weight) |
+| [0747-min-cost-climbing-stairs](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0747-min-cost-climbing-stairs) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +101,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0070-climbing-stairs](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0747-min-cost-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
