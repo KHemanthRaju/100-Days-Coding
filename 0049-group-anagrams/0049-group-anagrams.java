@@ -5,16 +5,16 @@ class Solution {
             char[] ch = str.toCharArray();
             Arrays.sort(ch);
             StringBuilder s = new StringBuilder();
-            for(int i=0;i<ch.length;i++){
-                s.append(ch[i]);
+            for(char c:ch){
+                s.append(c);
             }
             String st = s.toString();
             if(!map.containsKey(st)){
                 map.put(st, new ArrayList<>());
             }
             map.get(st).add(str);
-        }
 
+        }
         return new ArrayList<>(map.values());
     }
 }
