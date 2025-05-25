@@ -16,6 +16,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0242-valid-anagram](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0242-valid-anagram) |
 | [0001-two-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0141-linked-list-cycle) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0567-permutation-in-string) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +55,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0792-binary-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0792-binary-search) |
 | [1127-last-stone-weight](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1127-last-stone-weight) |
 | [0747-min-cost-climbing-stairs](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0747-min-cost-climbing-stairs) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +90,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0238-product-of-array-except-self) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Union Find
 |  |
 | ------- |
@@ -96,6 +100,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0792-binary-search) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
