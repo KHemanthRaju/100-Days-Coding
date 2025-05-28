@@ -1,17 +1,10 @@
-class Solution(object):
-    def twoSum(self, numbers, target):
-        """
-        :type numbers: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
+class Solution:
+    def twoSum(self, numbers: List[int], target: int) -> List[int]:
+        maps = {}
         ans = [0,0]
-        adict = {}
-
-        for i,num in enumerate(numbers):
-            if target - num in adict:
-                ans[0] = adict[target - num]+1
+        for i in range(len(numbers)):
+            if target - numbers[i] in maps:
+                ans[0] = maps.get(target-numbers[i])+1
                 ans[1] = i + 1
-            adict[num] = i
+            maps[numbers[i]] = i
         return ans
-        
