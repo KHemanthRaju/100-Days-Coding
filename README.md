@@ -63,6 +63,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [0036-valid-sudoku](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0036-valid-sudoku) |
 | [0011-container-with-most-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0011-container-with-most-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +121,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0020-valid-parentheses](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0155-min-stack) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Linked List
 |  |
 | ------- |
@@ -195,6 +197,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Memoization
 |  |
 | ------- |
