@@ -29,6 +29,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0125-valid-palindrome](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0125-valid-palindrome) |
 | [0020-valid-parentheses](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0424-longest-repeating-character-replacement) |
+| [0022-generate-parentheses](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -115,6 +116,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0070-climbing-stairs](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0747-min-cost-climbing-stairs) |
+| [0022-generate-parentheses](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -210,4 +212,8 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
