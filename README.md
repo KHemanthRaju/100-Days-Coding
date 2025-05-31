@@ -65,6 +65,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0036-valid-sudoku](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0036-valid-sudoku) |
 | [0011-container-with-most-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0011-container-with-most-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +125,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0155-min-stack) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
@@ -216,4 +218,8 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0022-generate-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
