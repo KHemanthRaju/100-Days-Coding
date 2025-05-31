@@ -68,6 +68,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0739-daily-temperatures](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0883-car-fleet) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0084-largest-rectangle-in-histogram) |
+| [0074-search-a-2d-matrix](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0074-search-a-2d-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +115,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0792-binary-search) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [0074-search-a-2d-matrix](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -215,6 +217,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0074-search-a-2d-matrix) |
 ## Greedy
 |  |
 | ------- |
