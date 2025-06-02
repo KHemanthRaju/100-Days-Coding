@@ -69,6 +69,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0883-car-fleet](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0883-car-fleet) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0074-search-a-2d-matrix](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0074-search-a-2d-matrix) |
+| [0907-koko-eating-bananas](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0907-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +117,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0792-binary-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0792-binary-search) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [0074-search-a-2d-matrix](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0074-search-a-2d-matrix) |
+| [0907-koko-eating-bananas](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0907-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
