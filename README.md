@@ -22,6 +22,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [0036-valid-sudoku](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0036-valid-sudoku) |
 | [0424-longest-repeating-character-replacement](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0424-longest-repeating-character-replacement) |
+| [1023-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1023-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0020-valid-parentheses](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0022-generate-parentheses](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0022-generate-parentheses) |
+| [1023-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1023-time-based-key-value-store) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,6 +127,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0907-koko-eating-bananas](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0907-koko-eating-bananas) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0033-search-in-rotated-sorted-array) |
+| [1023-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1023-time-based-key-value-store) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -205,6 +208,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0155-min-stack](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0155-min-stack) |
+| [1023-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1023-time-based-key-value-store) |
 ## Binary Search Tree
 |  |
 | ------- |
