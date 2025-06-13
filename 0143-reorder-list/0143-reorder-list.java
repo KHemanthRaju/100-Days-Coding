@@ -10,34 +10,39 @@
  */
 class Solution {
     public void reorderList(ListNode head) {
-        //Find the middle element in the list
+        if(head == null || head.next == null) return;
+
         ListNode slow = head;
         ListNode fast = head;
-        
-        while(fast!=null && fast.next!=null){
+        while(fast!=null && fast.next!=null && fast.next.next!=null){
             slow = slow.next;
             fast = fast.next.next;
         }
-        
-        //Reverse the second linkedlist
-        ListNode prev = null, current = slow;
-        while(current!=null){
-            ListNode temp = current.next;
-            current.next = prev;
-            prev= current;
-            current = temp;
-        }
-        
-        //Merge two linkedlists
+        ListNode second = reverseList(slow.next);
+        slow.next = null;
         ListNode first = head;
-        ListNode second = prev;
-        while(second.next!=null){
+
+        while(second!=null){
             ListNode temp1 = first.next;
-            first.next = second;
             ListNode temp2 = second.next;
+
+            first.next =second;
             second.next = temp1;
+
             first = temp1;
             second = temp2;
         }
+    }
+
+    public ListNode reverseList(ListNode head){
+        ListNode prev = null;
+        ListNode curr = head;
+        while(curr!=null){
+            ListNode forw = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = forw;
+        }
+        return prev;
     }
 }
