@@ -10,39 +10,46 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        if(lists.length==1){
-            return lists[0];
-        }
-        if(lists.length==0){
+        if(lists.length == 0){
             return null;
         }
-        ListNode head = mergeTwoLists(lists[0],lists[1]);
+        if(lists.length == 1){
+            return lists[0];
+        }
+        ListNode newList = mergeTwoLinkedLists(lists[0],lists[1]);
         for(int i=2;i<lists.length;i++){
-            head = mergeTwoLists(head,lists[i]);
+            newList = mergeTwoLinkedLists(newList, lists[i]);
         }
-        return head;
-        
+
+        return newList;
     }
-    public ListNode mergeTwoLists(ListNode list1, ListNode list2){
-        ListNode head = new ListNode(0);
-        ListNode ans = head;
-        while(list1!=null && list2!=null){
-            if(list1.val < list2.val){
-                head.next = list1;
-                head = head.next;
-                list1 = list1.next;
+
+    public ListNode mergeTwoLinkedLists(ListNode l1, ListNode l2){
+        ListNode ans = new ListNode(0);
+        ListNode head = ans;
+        while(l1!=null && l2!=null){
+            if(l1.val<l2.val){
+                ans.next = l1;
+                l1 = l1.next;
             }else{
-                head.next = list2;
-                head = head.next;
-                list2 = list2.next;
+                ans.next = l2;
+                l2 = l2.next;
             }
+            ans = ans.next;
         }
-        if(list1 == null){
-            head.next = list2;
+
+        while(l1!=null){
+            ans.next = l1;
+            l1 = l1.next;
+            ans = ans.next;
         }
-        if(list2 == null){
-            head.next = list1;
+
+        while(l2!=null){
+            ans.next = l2;
+            l2 = l2.next;
+            ans = ans.next;
         }
-        return ans.next;
+
+        return head.next;
     }
 }
