@@ -53,6 +53,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0011-container-with-most-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0011-container-with-most-water) |
 | [0143-reorder-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0143-reorder-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0287-find-the-duplicate-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0287-find-the-duplicate-number) |
 ## Array
 |  |
 | ------- |
@@ -79,6 +80,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0907-koko-eating-bananas](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0907-koko-eating-bananas) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +132,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [1023-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1023-time-based-key-value-store) |
+| [0287-find-the-duplicate-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -251,6 +254,10 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0739-daily-temperatures](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0883-car-fleet) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0084-largest-rectangle-in-histogram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
 
 <!-- GitAds-Verify: XDTDS8OMRE7SZJC3ZN2J18F629LXLMAR -->
