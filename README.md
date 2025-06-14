@@ -94,12 +94,14 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0347-top-k-frequent-elements) |
+| [0023-merge-k-sorted-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1127-last-stone-weight) |
+| [0023-merge-k-sorted-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0023-merge-k-sorted-lists) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -160,6 +162,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0143-reorder-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -258,6 +261,10 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0287-find-the-duplicate-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
 
 <!-- GitAds-Verify: XDTDS8OMRE7SZJC3ZN2J18F629LXLMAR -->
