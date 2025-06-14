@@ -23,6 +23,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0036-valid-sudoku](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0036-valid-sudoku) |
 | [0424-longest-repeating-character-replacement](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [1023-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1023-time-based-key-value-store) |
+| [0138-copy-list-with-random-pointer](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0138-copy-list-with-random-pointer) |
 ## String
 |  |
 | ------- |
@@ -164,6 +165,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0023-merge-k-sorted-lists) |
 | [0002-add-two-numbers](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0002-add-two-numbers) |
+| [0138-copy-list-with-random-pointer](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0138-copy-list-with-random-pointer) |
 ## Recursion
 |  |
 | ------- |
