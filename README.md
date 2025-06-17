@@ -56,6 +56,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0287-find-the-duplicate-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0287-find-the-duplicate-number) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0283-move-zeroes) |
 ## Array
 |  |
 | ------- |
@@ -84,6 +85,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0033-search-in-rotated-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0287-find-the-duplicate-number) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
