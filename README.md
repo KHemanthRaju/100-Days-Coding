@@ -55,6 +55,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0143-reorder-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0143-reorder-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0287-find-the-duplicate-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0287-find-the-duplicate-number) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Array
 |  |
 | ------- |
@@ -82,6 +83,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0287-find-the-duplicate-number) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Sorting
 |  |
 | ------- |
