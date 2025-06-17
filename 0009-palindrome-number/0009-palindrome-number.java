@@ -1,23 +1,18 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        if(x<0){
+        String st = Integer.toString(x);
+        if(st==null){
             return false;
         }
-        if(x==0){
-            return true;
-        }
-        String str = x+"";
-        String ans = "";
-        int l = 0;
-        int r = str.length()-1;
-        while(l<=r){
-            char ch1 = str.charAt(l);
-            char ch2 = str.charAt(r);
-            if(ch1 != ch2){
+        char[] ans = st.toCharArray();
+        int i=0;
+        int j = ans.length-1;
+        while(i<j){
+            if(ans[i]!=ans[j]){
                 return false;
             }
-            l++;
-            r--;
+            i++;
+            j--;
         }
         return true;
     }
