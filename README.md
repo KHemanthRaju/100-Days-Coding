@@ -88,6 +88,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0283-move-zeroes) |
 | [0027-remove-element](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0053-maximum-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +103,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0347-top-k-frequent-elements) |
 | [0023-merge-k-sorted-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -149,6 +151,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0070-climbing-stairs](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0747-min-cost-climbing-stairs) |
 | [0022-generate-parentheses](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
