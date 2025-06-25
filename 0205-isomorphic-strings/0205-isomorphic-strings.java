@@ -1,16 +1,23 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        if(s.length()!=t.length()){
-            return false;
-        }
-        int map1[] = new int[256];
-        int map2[] = new int[256];
+        if(s.length()!=t.length()) return false;
+        int[] mapST = new int[256];
+        int[] mapTS = new int[256];
+
+        Arrays.fill(mapST, -1);
+        Arrays.fill(mapTS, -1);
+
         for(int i=0;i<s.length();i++){
-            if(map1[s.charAt(i)]!=map2[t.charAt(i)]){
-                return false;
+            char ch1 = s.charAt(i);
+            char ch2 = t.charAt(i);
+            if(mapST[ch1]==-1 && mapTS[ch2]==-1){
+                mapST[ch1] = ch2;
+                mapTS[ch2] = ch1;
+            }else{
+                if(mapST[ch1]!=ch2 || mapTS[ch2]!=ch1){
+                    return false;
+                }
             }
-            map1[s.charAt(i)] = i+1;
-            map2[t.charAt(i)] = i+1;
         }
         return true;
     }
