@@ -26,6 +26,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0138-copy-list-with-random-pointer](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0138-copy-list-with-random-pointer) |
 | [0383-ransom-note](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0383-ransom-note) |
 | [0205-isomorphic-strings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0205-isomorphic-strings) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1023-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1023-time-based-key-value-store) |
 | [0383-ransom-note](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0383-ransom-note) |
 | [0205-isomorphic-strings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0205-isomorphic-strings) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Sliding Window
 |  |
 | ------- |
@@ -95,6 +97,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0027-remove-element](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0075-sort-colors) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Sorting
 |  |
 | ------- |
