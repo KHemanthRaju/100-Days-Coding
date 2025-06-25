@@ -58,6 +58,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0283-move-zeroes) |
 | [0027-remove-element](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0075-sort-colors) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +90,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0283-move-zeroes](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0283-move-zeroes) |
 | [0027-remove-element](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +100,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0217-contains-duplicate](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0242-valid-anagram) |
 | [0883-car-fleet](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0883-car-fleet) |
+| [0075-sort-colors](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
