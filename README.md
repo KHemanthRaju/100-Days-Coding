@@ -25,6 +25,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1023-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1023-time-based-key-value-store) |
 | [0138-copy-list-with-random-pointer](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0138-copy-list-with-random-pointer) |
 | [0383-ransom-note](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0383-ransom-note) |
+| [0205-isomorphic-strings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0022-generate-parentheses](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0022-generate-parentheses) |
 | [1023-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1023-time-based-key-value-store) |
 | [0383-ransom-note](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0383-ransom-note) |
+| [0205-isomorphic-strings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
