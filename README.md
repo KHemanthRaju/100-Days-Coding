@@ -24,6 +24,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0424-longest-repeating-character-replacement](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [1023-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1023-time-based-key-value-store) |
 | [0138-copy-list-with-random-pointer](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0138-copy-list-with-random-pointer) |
+| [0383-ransom-note](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0424-longest-repeating-character-replacement](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0022-generate-parentheses](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0022-generate-parentheses) |
 | [1023-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1023-time-based-key-value-store) |
+| [0383-ransom-note](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,6 +124,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
