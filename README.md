@@ -27,6 +27,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0383-ransom-note](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0383-ransom-note) |
 | [0205-isomorphic-strings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0205-isomorphic-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0387-first-unique-character-in-a-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0383-ransom-note](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0383-ransom-note) |
 | [0205-isomorphic-strings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0205-isomorphic-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0387-first-unique-character-in-a-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -130,6 +132,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -291,6 +294,10 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
 
 <!-- GitAds-Verify: XDTDS8OMRE7SZJC3ZN2J18F629LXLMAR -->
