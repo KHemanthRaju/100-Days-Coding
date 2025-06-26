@@ -44,6 +44,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0205-isomorphic-strings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0205-isomorphic-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0387-first-unique-character-in-a-string) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -67,6 +68,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0283-move-zeroes](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0283-move-zeroes) |
 | [0027-remove-element](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0075-sort-colors) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -238,6 +240,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0572-subtree-of-another-tree) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Hash Function
 |  |
 | ------- |
