@@ -202,6 +202,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0203-remove-linked-list-elements](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0908-middle-of-the-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
