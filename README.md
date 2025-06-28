@@ -196,6 +196,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0023-merge-k-sorted-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0023-merge-k-sorted-lists) |
 | [0002-add-two-numbers](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0002-add-two-numbers) |
 | [0138-copy-list-with-random-pointer](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0138-copy-list-with-random-pointer) |
+| [0203-remove-linked-list-elements](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -203,6 +204,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0021-merge-two-sorted-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0143-reorder-list) |
 | [0002-add-two-numbers](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0203-remove-linked-list-elements) |
 ## Tree
 |  |
 | ------- |
