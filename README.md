@@ -224,6 +224,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0572-subtree-of-another-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0101-symmetric-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -234,12 +235,14 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0100-same-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0100-same-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0572-subtree-of-another-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0101-symmetric-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0226-invert-binary-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0100-same-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -251,6 +254,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0572-subtree-of-another-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0101-symmetric-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0101-symmetric-tree) |
 ## String Matching
 |  |
 | ------- |
