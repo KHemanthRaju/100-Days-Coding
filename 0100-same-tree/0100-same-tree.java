@@ -17,15 +17,17 @@ class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
         Stack<TreeNode[]> st = new Stack<>();
         st.push(new TreeNode[]{p,q});
+
         while(!st.isEmpty()){
             TreeNode[] nodes = st.pop();
-            TreeNode node1 = nodes[0], node2 = nodes[1];
-            if(node1==null && node2==null) continue;
-            if(node1==null || node2==null || node1.val!=node2.val) return false;
-            st.push(new TreeNode[]{node1.left, node2.left});
-            st.push(new TreeNode[]{node1.right, node2.right});
-            
+            TreeNode s1 = nodes[0], s2 = nodes[1];
+            if(s1==null && s2 == null) continue;
+            if(s1 == null || s2 == null || s1.val != s2.val) return false;
+
+            st.push(new TreeNode[]{s1.left, s2.left});
+            st.push(new TreeNode[]{s1.right, s2.right});
         }
+
         return true;
     }
 }
