@@ -225,6 +225,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0789-kth-largest-element-in-a-stream](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0101-symmetric-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0101-symmetric-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -236,6 +237,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0572-subtree-of-another-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0572-subtree-of-another-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0101-symmetric-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0101-symmetric-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -255,6 +257,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0789-kth-largest-element-in-a-stream](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0101-symmetric-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0101-symmetric-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## String Matching
 |  |
 | ------- |
@@ -274,6 +277,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Data Stream
 |  |
 | ------- |
