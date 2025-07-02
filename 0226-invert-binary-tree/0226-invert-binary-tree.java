@@ -15,8 +15,7 @@
  */
 class Solution {
     public TreeNode invertTree(TreeNode root) {
-        //stack
-        if(root==null) return null;
+        if(root == null) return null;
         Stack<TreeNode> st = new Stack<>();
         st.push(root);
         while(!st.isEmpty()){
