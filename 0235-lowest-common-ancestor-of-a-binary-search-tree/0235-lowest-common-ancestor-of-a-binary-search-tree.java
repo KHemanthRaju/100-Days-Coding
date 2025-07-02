@@ -10,8 +10,13 @@
 
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        if(p.val>root.val && q.val>root.val) return lowestCommonAncestor(root.right,p,q);
-        if(p.val<root.val && q.val<root.val) return lowestCommonAncestor(root.left,p,q);
-        return root;
+        TreeNode curr = root;
+        return lca(curr,p,q);
+    }
+
+    public TreeNode lca(TreeNode curr, TreeNode p, TreeNode q){
+        if(p.val < curr.val && curr.val>q.val) return lca(curr.left, p, q);
+        if(p.val > curr.val && curr.val<q.val) return lca(curr.right, p, q);
+        return curr;
     }
 }
