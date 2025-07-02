@@ -227,6 +227,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0101-symmetric-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0098-validate-binary-search-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0098-validate-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -240,6 +241,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0101-symmetric-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0098-validate-binary-search-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0098-validate-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -261,6 +263,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0101-symmetric-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0098-validate-binary-search-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0098-validate-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -282,6 +285,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0789-kth-largest-element-in-a-stream](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0098-validate-binary-search-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0098-validate-binary-search-tree) |
 ## Data Stream
 |  |
 | ------- |
