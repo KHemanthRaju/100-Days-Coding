@@ -187,6 +187,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0084-largest-rectangle-in-histogram](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0234-palindrome-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0173-binary-search-tree-iterator) |
 ## Linked List
 |  |
 | ------- |
@@ -228,6 +229,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0098-validate-binary-search-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0173-binary-search-tree-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -264,6 +266,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0098-validate-binary-search-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0173-binary-search-tree-iterator) |
 ## String Matching
 |  |
 | ------- |
@@ -279,6 +282,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0789-kth-largest-element-in-a-stream](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0155-min-stack](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0155-min-stack) |
 | [1023-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1023-time-based-key-value-store) |
+| [0173-binary-search-tree-iterator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -286,6 +290,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0098-validate-binary-search-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0173-binary-search-tree-iterator) |
 ## Data Stream
 |  |
 | ------- |
@@ -333,6 +338,10 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0387-first-unique-character-in-a-string) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
 
 <!-- GitAds-Verify: XDTDS8OMRE7SZJC3ZN2J18F629LXLMAR -->
