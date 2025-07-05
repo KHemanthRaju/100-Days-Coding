@@ -110,6 +110,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1044-find-common-characters](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1044-find-common-characters) |
 | [0200-number-of-islands](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0695-max-area-of-island) |
 ## Sorting
 |  |
 | ------- |
@@ -157,6 +158,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0695-max-area-of-island) |
 ## Binary Search
 |  |
 | ------- |
@@ -247,6 +249,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0098-validate-binary-search-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -255,6 +258,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0100-same-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -317,6 +321,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0036-valid-sudoku](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0695-max-area-of-island) |
 ## Greedy
 |  |
 | ------- |
