@@ -111,6 +111,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1044-find-common-characters](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1044-find-common-characters) |
 | [0200-number-of-islands](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1036-rotting-oranges) |
 ## Sorting
 |  |
 | ------- |
@@ -259,6 +260,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0101-symmetric-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -322,6 +324,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0074-search-a-2d-matrix](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1036-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |
