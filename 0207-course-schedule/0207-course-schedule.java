@@ -1,40 +1,34 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        //using bfs
-        Map<Integer, List<Integer>> map = new HashMap<>();
+        List<List<Integer>> graph = new ArrayList<>();
         for(int i=0;i<numCourses;i++){
-            map.put(i, new ArrayList<>());
+            graph.add(new ArrayList<>());
         }
-        
         int[] indegree = new int[numCourses];
-        
-        for(int[] data: prerequisites){
-            int u = data[0];
-            int v = data[1];
-            map.get(v).add(u);
-            indegree[u]++;
+        for(int[] pre:prerequisites){
+            graph.get(pre[1]).add(pre[0]);
+            indegree[pre[0]]++;
         }
         
-        Queue<Integer> q = new LinkedList<>();
-        for(int i=0;i<numCourses; i++){
-            if(indegree[i]==0){
-                q.offer(i);
-            }
+        Queue<Integer> queue = new LinkedList<>();
+        for(int i=0;i<numCourses;i++){
+            if(indegree[i]==0) queue.offer(i);
         }
-        
-        int processedCourses=0;
-        while(!q.isEmpty()){
-            int course = q.poll();
-            processedCourses++;
-            
-            for (int neighbor : map.get(course)) {
-                indegree[neighbor]--;
-                if (indegree[neighbor] == 0) {
-                    q.offer(neighbor);
+
+        int completed = 0;
+
+        while(!queue.isEmpty()){
+            int course = queue.poll();
+            completed++;
+
+            for(int next:graph.get(course)){
+                indegree[next]--;
+                if(indegree[next]==0){
+                    queue.offer(next);
                 }
             }
         }
-        
-        return processedCourses == numCourses;
+
+        return completed == numCourses;
     }
 }
