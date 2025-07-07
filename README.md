@@ -164,6 +164,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0200-number-of-islands](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0695-max-area-of-island) |
 | [0130-surrounded-regions](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0130-surrounded-regions) |
+| [0684-redundant-connection](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0684-redundant-connection) |
 ## Binary Search
 |  |
 | ------- |
@@ -259,6 +260,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0133-clone-graph](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0133-clone-graph) |
 | [0130-surrounded-regions](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -273,6 +275,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0133-clone-graph](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0133-clone-graph) |
 | [0130-surrounded-regions](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0684-redundant-connection) |
 ## Binary Tree
 |  |
 | ------- |
@@ -374,6 +377,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | ------- |
 | [0133-clone-graph](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
