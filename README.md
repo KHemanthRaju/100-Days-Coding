@@ -115,6 +115,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1036-rotting-oranges](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1036-rotting-oranges) |
 | [0417-pacific-atlantic-water-flow](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0417-pacific-atlantic-water-flow) |
 | [0130-surrounded-regions](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0130-surrounded-regions) |
+| [0078-subsets](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0078-subsets) |
 ## Sorting
 |  |
 | ------- |
@@ -352,6 +353,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0078-subsets) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -362,6 +364,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0287-find-the-duplicate-number) |
+| [0078-subsets](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0078-subsets) |
 ## Merge Sort
 |  |
 | ------- |
