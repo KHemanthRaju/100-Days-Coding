@@ -52,6 +52,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1044-find-common-characters](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1044-find-common-characters) |
 | [0005-longest-palindromic-substring](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0647-palindromic-substrings) |
+| [0091-decode-ways](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0091-decode-ways) |
 ## Sliding Window
 |  |
 | ------- |
@@ -196,6 +197,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0213-house-robber-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0213-house-robber-ii) |
 | [0005-longest-palindromic-substring](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0647-palindromic-substrings) |
+| [0091-decode-ways](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0091-decode-ways) |
 ## Stack
 |  |
 | ------- |
