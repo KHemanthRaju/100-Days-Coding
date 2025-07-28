@@ -17,9 +17,6 @@ class Solution {
             }
         
         }
-        // if(!st.isEmpty()){
-        //     return false;
-        // }
         return st.isEmpty();
     }
 }
