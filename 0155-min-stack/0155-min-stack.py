@@ -21,7 +21,8 @@ class MinStack:
         while self.temp:
             self.stack.append(self.temp.pop())
         return mini
-        
+
+            
 
 
 # Your MinStack object will be instantiated and called as such:
