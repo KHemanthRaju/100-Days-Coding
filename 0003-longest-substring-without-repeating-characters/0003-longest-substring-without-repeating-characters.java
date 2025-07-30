@@ -4,7 +4,7 @@ class Solution {
         int j = 0;
         int ans = 0;
         for(int i=0;i<s.length();i++){
-            if(se.contains(s.charAt(i))){
+            while(se.contains(s.charAt(i))){
                 se.remove(s.charAt(j));
                 j++;
             }
