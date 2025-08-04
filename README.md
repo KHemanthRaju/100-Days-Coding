@@ -31,6 +31,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0012-integer-to-roman](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0012-integer-to-roman) |
 | [1044-find-common-characters](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1044-find-common-characters) |
 | [0133-clone-graph](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0146-lru-cache) |
 ## String
 |  |
 | ------- |
@@ -232,6 +233,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0908-middle-of-the-linked-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0908-middle-of-the-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0328-odd-even-linked-list) |
 | [0092-reverse-linked-list-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -328,6 +330,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0155-min-stack](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0155-min-stack) |
 | [1023-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1023-time-based-key-value-store) |
 | [0173-binary-search-tree-iterator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0173-binary-search-tree-iterator) |
+| [0146-lru-cache](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0146-lru-cache) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -406,6 +409,10 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | ------- |
 | [0207-course-schedule](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0210-course-schedule-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
 
 <!-- GitAds-Verify: XDTDS8OMRE7SZJC3ZN2J18F629LXLMAR -->
