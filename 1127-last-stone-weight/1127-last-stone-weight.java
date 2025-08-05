@@ -1,12 +1,12 @@
 class Solution {
     public int lastStoneWeight(int[] stones) {
-        Queue<Integer> minheap = new PriorityQueue<>((a,b)->b-a);
-        for(int i:stones){
-            minheap.add(i);
+        PriorityQueue<Integer> ans = new PriorityQueue<>((a,b)->b-a);
+        for(int i=0;i<stones.length;i++){
+            ans.add(stones[i]);
         }
-        while(minheap.size()>1){
-            minheap.offer(minheap.poll()-minheap.poll());
+        while(ans.size()>1){
+            ans.offer(ans.poll()-ans.poll());
         }
-        return minheap.poll();
+        return ans.size()==0?0:ans.poll();
     }
 }
