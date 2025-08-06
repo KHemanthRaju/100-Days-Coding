@@ -7,8 +7,8 @@ class Solution {
                 maxheap.poll();
             }
         }
-        int[][] res = new int[k][2];
-        for (int i = 0; i < k; i++) {
+        int[][] res=new int[k][2];
+        for(int i=0;i<k;i++){
             res[i] = maxheap.poll();
         }
         return res;
