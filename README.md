@@ -271,6 +271,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0098-validate-binary-search-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0173-binary-search-tree-iterator) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -293,6 +294,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0207-course-schedule](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0684-redundant-connection) |
 | [0210-course-schedule-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0210-course-schedule-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -310,6 +312,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0684-redundant-connection](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0684-redundant-connection) |
 | [0210-course-schedule-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0322-coin-change) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -326,6 +329,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0098-validate-binary-search-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0173-binary-search-tree-iterator) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0111-minimum-depth-of-binary-tree) |
 ## String Matching
 |  |
 | ------- |
