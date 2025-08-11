@@ -4,13 +4,14 @@ class Solution {
         for(int i=0;i<numCourses;i++){
             ans.add(new ArrayList<>());
         }
+
         int[] indegree = new int[numCourses];
         for(int[] pre:prerequisites){
             ans.get(pre[1]).add(pre[0]);
             indegree[pre[0]]++;
         }
         Queue<Integer> queue = new LinkedList<>();
-        for(int i=0;i<numCourses;i++){
+        for(int i=0;i<indegree.length;i++){
             if(indegree[i]==0){
                 queue.offer(i);
             }
