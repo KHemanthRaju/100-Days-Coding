@@ -131,6 +131,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0039-combination-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0039-combination-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1014-k-closest-points-to-origin) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Sorting
 |  |
 | ------- |
@@ -386,6 +387,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1036-rotting-oranges](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1036-rotting-oranges) |
 | [0417-pacific-atlantic-water-flow](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0417-pacific-atlantic-water-flow) |
 | [0130-surrounded-regions](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0130-surrounded-regions) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Greedy
 |  |
 | ------- |
