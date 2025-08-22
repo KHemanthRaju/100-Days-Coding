@@ -54,6 +54,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0005-longest-palindromic-substring](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0647-palindromic-substrings) |
 | [0091-decode-ways](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0091-decode-ways) |
+| [1250-longest-common-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -216,6 +217,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0322-coin-change](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0322-coin-change) |
 | [0152-maximum-product-subarray](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0152-maximum-product-subarray) |
 | [0062-unique-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0062-unique-paths) |
+| [1250-longest-common-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
