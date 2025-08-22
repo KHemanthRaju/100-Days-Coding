@@ -215,6 +215,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0091-decode-ways](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0091-decode-ways) |
 | [0322-coin-change](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0322-coin-change) |
 | [0152-maximum-product-subarray](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0152-maximum-product-subarray) |
+| [0062-unique-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0062-unique-paths) |
 ## Stack
 |  |
 | ------- |
@@ -368,6 +369,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0009-palindrome-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0012-integer-to-roman) |
 | [1014-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1014-k-closest-points-to-origin) |
+| [0062-unique-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0062-unique-paths) |
 ## Memoization
 |  |
 | ------- |
@@ -436,6 +438,10 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1014-k-closest-points-to-origin) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
 
 <!-- GitAds-Verify: XDTDS8OMRE7SZJC3ZN2J18F629LXLMAR -->
