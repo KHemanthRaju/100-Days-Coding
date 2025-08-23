@@ -133,6 +133,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1014-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1014-k-closest-points-to-origin) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [0518-coin-change-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0518-coin-change-ii) |
+| [0494-target-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0494-target-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -221,6 +222,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0062-unique-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0062-unique-paths) |
 | [1250-longest-common-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1250-longest-common-subsequence) |
 | [0518-coin-change-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0518-coin-change-ii) |
+| [0494-target-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0494-target-sum) |
 ## Stack
 |  |
 | ------- |
@@ -401,6 +403,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0078-subsets](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0078-subsets) |
 | [0046-permutations](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0046-permutations) |
 | [0039-combination-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0039-combination-sum) |
+| [0494-target-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0494-target-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
