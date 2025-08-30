@@ -135,6 +135,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0518-coin-change-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0518-coin-change-ii) |
 | [0494-target-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0494-target-sum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0300-longest-increasing-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0300-longest-increasing-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -205,6 +206,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0033-search-in-rotated-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [1023-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1023-time-based-key-value-store) |
 | [0287-find-the-duplicate-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0300-longest-increasing-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -225,6 +227,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0518-coin-change-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0518-coin-change-ii) |
 | [0494-target-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0494-target-sum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0300-longest-increasing-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0300-longest-increasing-subsequence) |
 ## Stack
 |  |
 | ------- |
