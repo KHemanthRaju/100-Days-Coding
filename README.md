@@ -139,6 +139,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0300-longest-increasing-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0300-longest-increasing-subsequence) |
 | [0139-word-break](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0139-word-break) |
+| [0040-combination-sum-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0040-combination-sum-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -414,6 +415,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0046-permutations](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0046-permutations) |
 | [0039-combination-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0494-target-sum) |
+| [0040-combination-sum-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0040-combination-sum-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
