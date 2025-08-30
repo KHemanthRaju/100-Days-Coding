@@ -32,6 +32,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1044-find-common-characters](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1044-find-common-characters) |
 | [0133-clone-graph](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0146-lru-cache) |
+| [0139-word-break](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0647-palindromic-substrings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0647-palindromic-substrings) |
 | [0091-decode-ways](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0091-decode-ways) |
 | [1250-longest-common-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1250-longest-common-subsequence) |
+| [0139-word-break](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,6 +138,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0494-target-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0494-target-sum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0300-longest-increasing-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0300-longest-increasing-subsequence) |
+| [0139-word-break](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -228,6 +231,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0494-target-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0494-target-sum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0300-longest-increasing-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0300-longest-increasing-subsequence) |
+| [0139-word-break](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -386,6 +390,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0139-word-break) |
 ## Matrix
 |  |
 | ------- |
@@ -456,6 +461,10 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
 
 <!-- GitAds-Verify: XDTDS8OMRE7SZJC3ZN2J18F629LXLMAR -->
