@@ -1,12 +1,18 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        res = []
+        result = []
+        used = [False] * len(nums)
 
-        def dfs(path, remaining):
-            if not remaining:
-                res.append(path[:])
+        def backtrack(path):
+            if len(path) == len(nums):
+                result.append(path[:])
                 return
-            for i in range(len(remaining)):
-                dfs(path+[remaining[i]], remaining[:i]+remaining[i+1:])
-        dfs([], nums)
-        return res
+            for i in range(len(nums)):
+                if not used[i]:
+                    used[i] = True
+                    path.append(nums[i])
+                    backtrack(path)
+                    path.pop()
+                    used[i] = False
+        backtrack([])
+        return result
