@@ -57,6 +57,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0091-decode-ways](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0091-decode-ways) |
 | [1250-longest-common-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1250-longest-common-subsequence) |
 | [0139-word-break](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0139-word-break) |
+| [0079-word-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -140,6 +141,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0300-longest-increasing-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0300-longest-increasing-subsequence) |
 | [0139-word-break](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0139-word-break) |
 | [0040-combination-sum-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0079-word-search) |
 ## Sorting
 |  |
 | ------- |
@@ -313,6 +315,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0684-redundant-connection](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0684-redundant-connection) |
 | [0210-course-schedule-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0210-course-schedule-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0079-word-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0079-word-search) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -403,6 +406,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0417-pacific-atlantic-water-flow](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0417-pacific-atlantic-water-flow) |
 | [0130-surrounded-regions](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0130-surrounded-regions) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [0079-word-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0079-word-search) |
 ## Greedy
 |  |
 | ------- |
@@ -416,6 +420,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0039-combination-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0494-target-sum) |
 | [0040-combination-sum-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
 | ------- |
