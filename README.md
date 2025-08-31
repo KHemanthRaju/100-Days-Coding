@@ -142,6 +142,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0139-word-break](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0139-word-break) |
 | [0040-combination-sum-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0079-word-search) |
+| [0055-jump-game](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0055-jump-game) |
 ## Sorting
 |  |
 | ------- |
@@ -235,6 +236,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0300-longest-increasing-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0300-longest-increasing-subsequence) |
 | [0139-word-break](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0139-word-break) |
+| [0055-jump-game](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |
@@ -411,6 +413,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
