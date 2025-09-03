@@ -9,7 +9,7 @@ class Solution:
             for pile in piles:
                 hours += math.ceil(float(pile)/speed)
             return hours<=h
-        while minSpeed < maxSpeed:
+        while minSpeed <= maxSpeed:
             speed = (minSpeed+maxSpeed)//2
             if canTakeTime(piles, h, speed):
                 res = speed
