@@ -86,6 +86,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0908-middle-of-the-linked-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0908-middle-of-the-linked-list) |
 | [0005-longest-palindromic-substring](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0647-palindromic-substrings) |
+| [0042-trapping-rain-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0042-trapping-rain-water) |
 ## Array
 |  |
 | ------- |
@@ -144,6 +145,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0079-word-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0079-word-search) |
 | [0055-jump-game](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0134-gas-station) |
+| [0042-trapping-rain-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0042-trapping-rain-water) |
 ## Sorting
 |  |
 | ------- |
@@ -238,6 +240,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0300-longest-increasing-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0300-longest-increasing-subsequence) |
 | [0139-word-break](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0139-word-break) |
 | [0055-jump-game](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0055-jump-game) |
+| [0042-trapping-rain-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
 | ------- |
@@ -251,6 +254,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0143-reorder-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0234-palindrome-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0173-binary-search-tree-iterator) |
+| [0042-trapping-rain-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0042-trapping-rain-water) |
 ## Linked List
 |  |
 | ------- |
@@ -432,6 +436,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0739-daily-temperatures](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0883-car-fleet) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0084-largest-rectangle-in-histogram) |
+| [0042-trapping-rain-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0042-trapping-rain-water) |
 ## Bit Manipulation
 |  |
 | ------- |
