@@ -67,6 +67,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0567-permutation-in-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0567-permutation-in-string) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [0424-longest-repeating-character-replacement](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +151,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0042-trapping-rain-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0042-trapping-rain-water) |
 | [0560-subarray-sum-equals-k](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0643-maximum-average-subarray-i) |
 ## Sorting
 |  |
 | ------- |
