@@ -33,6 +33,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0133-clone-graph](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0146-lru-cache) |
 | [0139-word-break](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0139-word-break) |
+| [0560-subarray-sum-equals-k](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -146,6 +147,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0055-jump-game](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0134-gas-station) |
 | [0042-trapping-rain-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0042-trapping-rain-water) |
+| [0560-subarray-sum-equals-k](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -196,6 +198,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0238-product-of-array-except-self) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [0560-subarray-sum-equals-k](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0560-subarray-sum-equals-k) |
 ## Union Find
 |  |
 | ------- |
