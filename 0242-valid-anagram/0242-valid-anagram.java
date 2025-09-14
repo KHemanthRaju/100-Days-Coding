@@ -3,8 +3,8 @@ class Solution {
         if(s.length()!=t.length()){
             return false;
         }
-        char[] ch1 = s.toCharArray();
-        char[] ch2 = t.toCharArray();
+        char ch1[] = s.toCharArray();
+        char ch2[] = t.toCharArray();
         Arrays.sort(ch1);
         Arrays.sort(ch2);
         for(int i=0;i<s.length();i++){
