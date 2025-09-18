@@ -90,6 +90,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0005-longest-palindromic-substring](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0647-palindromic-substrings) |
 | [0042-trapping-rain-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0042-trapping-rain-water) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Array
 |  |
 | ------- |
@@ -152,6 +153,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0560-subarray-sum-equals-k](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0643-maximum-average-subarray-i) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Sorting
 |  |
 | ------- |
@@ -164,6 +166,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0075-sort-colors](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1014-k-closest-points-to-origin) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -224,6 +227,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1023-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1023-time-based-key-value-store) |
 | [0287-find-the-duplicate-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0300-longest-increasing-subsequence) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -427,6 +431,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0011-container-with-most-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0134-gas-station) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Backtracking
 |  |
 | ------- |
@@ -457,6 +462,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0387-first-unique-character-in-a-string) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Iterator
 |  |
 | ------- |
@@ -489,6 +495,10 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0139-word-break](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0139-word-break) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
 
 <!-- GitAds-Verify: XDTDS8OMRE7SZJC3ZN2J18F629LXLMAR -->
