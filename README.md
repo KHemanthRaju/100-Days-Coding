@@ -60,6 +60,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1250-longest-common-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1250-longest-common-subsequence) |
 | [0139-word-break](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0139-word-break) |
 | [0079-word-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0079-word-search) |
+| [0516-longest-palindromic-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0516-longest-palindromic-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -252,6 +253,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0139-word-break](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0139-word-break) |
 | [0055-jump-game](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0055-jump-game) |
 | [0042-trapping-rain-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0042-trapping-rain-water) |
+| [0516-longest-palindromic-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0516-longest-palindromic-subsequence) |
 ## Stack
 |  |
 | ------- |
