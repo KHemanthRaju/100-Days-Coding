@@ -35,6 +35,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0139-word-break](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -92,6 +93,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0647-palindromic-substrings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0647-palindromic-substrings) |
 | [0042-trapping-rain-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0042-trapping-rain-water) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0160-intersection-of-two-linked-lists) |
 ## Array
 |  |
 | ------- |
@@ -286,6 +288,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0328-odd-even-linked-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0328-odd-even-linked-list) |
 | [0092-reverse-linked-list-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
