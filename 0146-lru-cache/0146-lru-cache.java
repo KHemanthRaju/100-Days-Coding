@@ -23,8 +23,9 @@ class LRUCache {
         for(int i=0;i<cache.size();i++){
             if(cache.get(i)[0]==key){
                 int[] temp = cache.remove(i);
-                cache.add(temp);
                 temp[1] = value;
+                cache.add(temp);
+                
                 return;
             }
         }
