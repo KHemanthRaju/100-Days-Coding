@@ -36,6 +36,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0560-subarray-sum-equals-k](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0160-intersection-of-two-linked-lists) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
 | ------- |
@@ -157,6 +158,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0643-maximum-average-subarray-i) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
 |  |
 | ------- |
@@ -170,6 +172,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0215-kth-largest-element-in-an-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1014-k-closest-points-to-origin) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -187,6 +190,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0023-merge-k-sorted-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1014-k-closest-points-to-origin) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -443,6 +447,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0055-jump-game](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0134-gas-station) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Backtracking
 |  |
 | ------- |
@@ -510,6 +515,10 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Simulation
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
 
 <!-- GitAds-Verify: XDTDS8OMRE7SZJC3ZN2J18F629LXLMAR -->
