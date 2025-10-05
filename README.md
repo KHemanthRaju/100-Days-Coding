@@ -37,6 +37,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [0768-partition-labels](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0768-partition-labels) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0139-word-break](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0139-word-break) |
 | [0079-word-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0079-word-search) |
 | [0516-longest-palindromic-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0516-longest-palindromic-subsequence) |
+| [0768-partition-labels](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0768-partition-labels) |
 ## Sliding Window
 |  |
 | ------- |
@@ -95,6 +97,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0042-trapping-rain-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0042-trapping-rain-water) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0160-intersection-of-two-linked-lists) |
+| [0768-partition-labels](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0768-partition-labels) |
 ## Array
 |  |
 | ------- |
@@ -448,6 +451,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0134-gas-station](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0134-gas-station) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [0768-partition-labels](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0768-partition-labels) |
 ## Backtracking
 |  |
 | ------- |
