@@ -162,6 +162,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0643-maximum-average-subarray-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0643-maximum-average-subarray-i) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -176,6 +177,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1014-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1014-k-closest-points-to-origin) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -452,6 +454,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [0768-partition-labels](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0768-partition-labels) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Backtracking
 |  |
 | ------- |
