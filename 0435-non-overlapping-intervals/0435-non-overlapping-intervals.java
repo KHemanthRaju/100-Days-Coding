@@ -8,6 +8,8 @@ class Solution {
             int end = intervals[i][1];
             if(start<prev){
                 count++;
+            }
+            else{
                 prev= end;
             }
         }
