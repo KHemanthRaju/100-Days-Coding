@@ -5,12 +5,12 @@ class Solution(object):
         :rtype: int
         """
         arr.sort()
-        prev = 1
+        prev= 1
         max_val = 1
         for i in range(1, len(arr)):
-            cur = min(arr[i], prev+1)
-            prev = cur
-            if cur>max_val:
+            cur = min(prev+1, arr[i])
+            prev= cur
+            if cur > max_val:
                 max_val = cur
         return max_val
         
