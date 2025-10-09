@@ -65,6 +65,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0079-word-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0079-word-search) |
 | [0516-longest-palindromic-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0768-partition-labels) |
+| [0058-length-of-last-word](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0058-length-of-last-word) |
 ## Sliding Window
 |  |
 | ------- |
