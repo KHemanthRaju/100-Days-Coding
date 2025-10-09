@@ -164,6 +164,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0435-non-overlapping-intervals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0435-non-overlapping-intervals) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
 | ------- |
@@ -180,6 +181,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0435-non-overlapping-intervals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0435-non-overlapping-intervals) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -459,6 +461,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0768-partition-labels](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0768-partition-labels) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0435-non-overlapping-intervals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0435-non-overlapping-intervals) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 ## Backtracking
 |  |
 | ------- |
