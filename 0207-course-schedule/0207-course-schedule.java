@@ -4,29 +4,31 @@ class Solution {
         for(int i=0;i<numCourses;i++){
             ans.add(new ArrayList<>());
         }
-
+        int completed = 0;
         int[] indegree = new int[numCourses];
-        for(int[] pre:prerequisites){
-            ans.get(pre[1]).add(pre[0]);
-            indegree[pre[0]]++;
+        for(int[] prev:prerequisites){
+            ans.get(prev[1]).add(prev[0]);
+            indegree[prev[0]]++;
         }
+
         Queue<Integer> queue = new LinkedList<>();
-        for(int i=0;i<indegree.length;i++){
+        for(int i=0;i<numCourses;i++){
             if(indegree[i]==0){
-                queue.offer(i);
+                queue.add(i);
             }
         }
-        int completed = 0;
+
         while(!queue.isEmpty()){
-            int course = queue.poll();
+            int cool = queue.poll();
             completed++;
-            for(int next:ans.get(course)){
-                indegree[next]--;
-                if(indegree[next]==0){
-                    queue.offer(next);
+            for(int item:ans.get(cool)){
+                indegree[item]--;
+                if(indegree[item]==0){
+                    queue.offer(item);
                 }
             }
         }
-        return completed == numCourses;
+        return completed ==numCourses;
+        
     }
 }
