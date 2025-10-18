@@ -166,6 +166,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0435-non-overlapping-intervals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0435-non-overlapping-intervals) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -183,6 +184,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0435-non-overlapping-intervals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0435-non-overlapping-intervals) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -463,6 +465,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0435-non-overlapping-intervals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0435-non-overlapping-intervals) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Backtracking
 |  |
 | ------- |
