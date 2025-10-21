@@ -203,6 +203,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0215-kth-largest-element-in-an-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1014-k-closest-points-to-origin) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [0744-network-delay-time](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0744-network-delay-time) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -359,6 +360,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0111-minimum-depth-of-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0079-word-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0079-word-search) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0744-network-delay-time](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0744-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -378,6 +380,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0322-coin-change](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0322-coin-change) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0102-binary-tree-level-order-traversal) |
+| [0744-network-delay-time](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0744-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -508,6 +511,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0207-course-schedule](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0684-redundant-connection) |
 | [0210-course-schedule-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -537,6 +541,10 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
 
 <!-- GitAds-Verify: XDTDS8OMRE7SZJC3ZN2J18F629LXLMAR -->
