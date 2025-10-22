@@ -38,6 +38,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0160-intersection-of-two-linked-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [0768-partition-labels](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0768-partition-labels) |
+| [0876-hand-of-straights](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0876-hand-of-straights) |
 ## String
 |  |
 | ------- |
@@ -169,6 +170,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0435-non-overlapping-intervals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0435-non-overlapping-intervals) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [0876-hand-of-straights](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0876-hand-of-straights) |
 ## Sorting
 |  |
 | ------- |
@@ -187,6 +189,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0435-non-overlapping-intervals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0435-non-overlapping-intervals) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [0876-hand-of-straights](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0876-hand-of-straights) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -475,6 +478,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [0678-valid-parenthesis-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0678-valid-parenthesis-string) |
+| [0876-hand-of-straights](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0876-hand-of-straights) |
 ## Backtracking
 |  |
 | ------- |
