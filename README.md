@@ -67,6 +67,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0768-partition-labels](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0768-partition-labels) |
 | [0058-length-of-last-word](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0097-interleaving-string) |
+| [0678-valid-parenthesis-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -276,6 +277,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0516-longest-palindromic-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0516-longest-palindromic-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0435-non-overlapping-intervals) |
 | [0097-interleaving-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0097-interleaving-string) |
+| [0678-valid-parenthesis-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
@@ -290,6 +292,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0234-palindrome-linked-list](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0234-palindrome-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0173-binary-search-tree-iterator) |
 | [0042-trapping-rain-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
 |  |
 | ------- |
@@ -471,6 +474,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0435-non-overlapping-intervals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0435-non-overlapping-intervals) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [0678-valid-parenthesis-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
