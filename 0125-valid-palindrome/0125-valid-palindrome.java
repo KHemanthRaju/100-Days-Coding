@@ -9,7 +9,7 @@ class Solution {
             while(r>l && !alphanum(s.charAt(r))){
                 r--;
             }
-            if(Character.toLowerCase(s.charAt(l)) != Character.toLowerCase(s.charAt(r))){
+            if(Character.toLowerCase(s.charAt(l))!=Character.toLowerCase(s.charAt(r))){
                 return false;
             }
             l++;
@@ -17,7 +17,7 @@ class Solution {
         }
         return true;
     }
-    public boolean alphanum(char c){
-        return (c>='A' && c<='Z' || c>='a' && c<='z' || c>='0' && c<='9');
+    public boolean alphanum(char ch){
+        return (ch>='a' && ch<='z' || ch>='A' && ch<='Z' || ch>='0' && ch<='9');
     }
 }
