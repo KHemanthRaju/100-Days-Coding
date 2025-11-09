@@ -1,10 +1,13 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        maps = {}
-        ans = [0,0]
-        for i in range(len(numbers)):
-            if target - numbers[i] in maps:
-                ans[0] = maps.get(target-numbers[i])+1
-                ans[1] = i + 1
-            maps[numbers[i]] = i
-        return ans
+        l = 0
+        r = len(numbers)-1
+        while l<=r :
+            if (numbers[l]+numbers[r])==target:
+                return [l+1,r+1]
+            if numbers[l]+numbers[r]>target:
+                r-=1
+            else:
+                l+=1
+        
+        return [0,0]
