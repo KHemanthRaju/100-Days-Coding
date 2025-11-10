@@ -13,16 +13,15 @@ class MinStack:
         return self.stack[-1]
 
     def getMin(self) -> int:
-        self.temp = []
         mini = self.stack[-1]
+        self.temp = []
         while self.stack:
             mini = min(mini, self.stack[-1])
             self.temp.append(self.stack.pop())
         while self.temp:
             self.stack.append(self.temp.pop())
         return mini
-
-            
+        
 
 
 # Your MinStack object will be instantiated and called as such:
