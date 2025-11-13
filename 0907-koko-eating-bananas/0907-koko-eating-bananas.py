@@ -1,7 +1,6 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
         minSpeed = 1
-        
         maxSpeed = max(piles)
         res = maxSpeed
         def canTakeTime(piles, h, speed):
@@ -9,11 +8,11 @@ class Solution:
             for pile in piles:
                 hours += math.ceil(float(pile)/speed)
             return hours<=h
-        while minSpeed <= maxSpeed:
+        while minSpeed < maxSpeed:
             speed = (minSpeed+maxSpeed)//2
             if canTakeTime(piles, h, speed):
                 res = speed
-                maxSpeed = speed - 1
+                maxSpeed = speed-1
             else:
-                minSpeed = speed + 1
+                minSpeed = speed+1
         return res
