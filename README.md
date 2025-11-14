@@ -281,6 +281,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0435-non-overlapping-intervals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0435-non-overlapping-intervals) |
 | [0097-interleaving-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0097-interleaving-string) |
 | [0678-valid-parenthesis-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0678-valid-parenthesis-string) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack
 |  |
 | ------- |
@@ -345,6 +346,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0199-binary-tree-right-side-view) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -373,6 +375,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0744-network-delay-time](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0744-network-delay-time) |
 | [0199-binary-tree-right-side-view](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0199-binary-tree-right-side-view) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -416,6 +419,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0199-binary-tree-right-side-view) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0124-binary-tree-maximum-path-sum) |
 ## String Matching
 |  |
 | ------- |
