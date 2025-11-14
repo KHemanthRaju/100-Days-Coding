@@ -12,7 +12,7 @@ class Solution:
         right = self.height(root.right)
         if abs(right-left)>1:
             return False
-        return self.isBalanced(root.left) or self.isBalanced(root.right)
+        return self.isBalanced(root.left) and self.isBalanced(root.right)
     
     def height(self, root):
         if root is None:
