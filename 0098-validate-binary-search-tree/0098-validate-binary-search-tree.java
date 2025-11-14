@@ -19,22 +19,22 @@ class Solution {
             return true;
         }
         ArrayList<Integer> ans = new ArrayList<>();
-        helper(ans,root);
-        boolean isBST = true;
+        helper(root,ans);
         int prev = ans.get(0);
+        boolean isBST = true;
         for(int i=1;i<ans.size();i++){
             if(ans.get(i)<=prev){
                 isBST = false;
             }
             prev = ans.get(i);
         }
-
         return isBST;
     }
-    public void helper(ArrayList<Integer> ans, TreeNode root){
+
+    public void helper(TreeNode root, ArrayList<Integer> ans){
         if(root==null) return;
-        helper(ans, root.left);
+        helper(root.left, ans);
         ans.add(root.val);
-        helper(ans, root.right);
+        helper(root.right, ans);
     }
 }
