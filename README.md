@@ -344,6 +344,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0102-binary-tree-level-order-traversal](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0199-binary-tree-right-side-view) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -371,6 +372,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0744-network-delay-time](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0744-network-delay-time) |
 | [0199-binary-tree-right-side-view](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0199-binary-tree-right-side-view) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -392,6 +394,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0102-binary-tree-level-order-traversal](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0744-network-delay-time](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0744-network-delay-time) |
 | [0199-binary-tree-right-side-view](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0199-binary-tree-right-side-view) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -412,6 +415,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0102-binary-tree-level-order-traversal](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0199-binary-tree-right-side-view) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
