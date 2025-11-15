@@ -69,6 +69,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0058-length-of-last-word](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0097-interleaving-string) |
 | [0678-valid-parenthesis-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0678-valid-parenthesis-string) |
+| [0131-palindrome-partitioning](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
 |  |
 | ------- |
@@ -282,6 +283,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0097-interleaving-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0097-interleaving-string) |
 | [0678-valid-parenthesis-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0678-valid-parenthesis-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
@@ -501,6 +503,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0494-target-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0494-target-sum) |
 | [0040-combination-sum-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0131-palindrome-partitioning) |
 ## Monotonic Stack
 |  |
 | ------- |
