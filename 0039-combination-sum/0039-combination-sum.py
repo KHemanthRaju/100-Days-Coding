@@ -1,9 +1,9 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        result = []
+        ans = []
         def backtrack(start, path, remaining):
             if remaining == 0:
-                result.append(path[:])
+                ans.append(path[:])
                 return
             if remaining < 0:
                 return
@@ -12,4 +12,4 @@ class Solution:
                 backtrack(i, path, remaining - candidates[i])
                 path.pop()
         backtrack(0,[], target)
-        return result
+        return ans
