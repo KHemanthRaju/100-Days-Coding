@@ -6,7 +6,7 @@ class Solution:
             if num == 0:
                 currMin, currMax = 1,1
                 continue
-            temp = num * currMax;
+            temp = num * currMax
             currMax = max(num*currMin, num*currMax, num)
             currMin = min(num*currMin, temp, num)   
             res = max(res, currMax)
