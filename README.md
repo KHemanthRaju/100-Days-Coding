@@ -174,6 +174,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0876-hand-of-straights](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0876-hand-of-straights) |
 | [0853-car-fleet](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0875-koko-eating-bananas) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Sorting
 |  |
 | ------- |
@@ -522,6 +523,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0287-find-the-duplicate-number) |
 | [0078-subsets](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0078-subsets) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Merge Sort
 |  |
 | ------- |
