@@ -173,6 +173,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [0876-hand-of-straights](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0876-hand-of-straights) |
 | [0853-car-fleet](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
@@ -256,6 +257,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0287-find-the-duplicate-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0300-longest-increasing-subsequence) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [0875-koko-eating-bananas](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
