@@ -5,7 +5,7 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             ans.add(nums[i]);
         }
-        for(int n:nums){
+        for(int n:ans){
             if(!ans.contains(n-1)){
                 int count = 1;
                 while(ans.contains(n+count)){
