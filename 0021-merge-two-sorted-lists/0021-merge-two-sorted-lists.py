@@ -15,10 +15,10 @@ class Solution:
                 curr.next = l2
                 l2 = l2.next
             curr = curr.next
-        while l1!=None:
+        if l1!=None:
             curr.next = l1
             l1=l1.next
-        while l2!=None:
+        elif l2!=None:
             curr.next = l2
             l2 = l2.next
         return ans.next
