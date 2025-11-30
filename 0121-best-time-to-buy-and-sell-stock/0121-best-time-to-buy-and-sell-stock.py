@@ -5,4 +5,4 @@ class Solution:
         for price in prices:
             mini = min(mini, price)
             ans = max(ans, price-mini)
-        return ans 
+        return ans
