@@ -177,6 +177,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0853-car-fleet](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0875-koko-eating-bananas) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1018-binary-prefix-divisible-by-5) |
+| [0994-rotting-oranges](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0994-rotting-oranges) |
 ## Sorting
 |  |
 | ------- |
@@ -409,6 +410,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0744-network-delay-time](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0744-network-delay-time) |
 | [0199-binary-tree-right-side-view](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0199-binary-tree-right-side-view) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -488,6 +490,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0130-surrounded-regions](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0130-surrounded-regions) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [0079-word-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0079-word-search) |
+| [0994-rotting-oranges](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0994-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |
