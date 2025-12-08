@@ -473,6 +473,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0012-integer-to-roman](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0012-integer-to-roman) |
 | [1014-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1014-k-closest-points-to-origin) |
 | [0062-unique-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0062-unique-paths) |
+| [1925-count-square-sum-triples](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1925-count-square-sum-triples) |
 ## Memoization
 |  |
 | ------- |
@@ -585,6 +586,10 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0744-network-delay-time) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
 
 <!-- GitAds-Verify: XDTDS8OMRE7SZJC3ZN2J18F629LXLMAR -->
