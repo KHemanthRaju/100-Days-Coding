@@ -180,6 +180,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1018-binary-prefix-divisible-by-5](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1018-binary-prefix-divisible-by-5) |
 | [0994-rotting-oranges](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0994-rotting-oranges) |
 | [3583-count-special-triplets](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3583-count-special-triplets) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Sorting
 |  |
 | ------- |
@@ -477,6 +478,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1014-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1014-k-closest-points-to-origin) |
 | [0062-unique-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0062-unique-paths) |
 | [1925-count-square-sum-triples](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1925-count-square-sum-triples) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Memoization
 |  |
 | ------- |
@@ -573,6 +575,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0062-unique-paths) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Trie
 |  |
 | ------- |
@@ -593,6 +596,10 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1925-count-square-sum-triples) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
 
 <!-- GitAds-Verify: XDTDS8OMRE7SZJC3ZN2J18F629LXLMAR -->
