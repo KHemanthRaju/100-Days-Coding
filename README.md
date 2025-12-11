@@ -41,6 +41,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0876-hand-of-straights](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0876-hand-of-straights) |
 | [0981-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0981-time-based-key-value-store) |
 | [3583-count-special-triplets](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3583-count-special-triplets) |
+| [3531-count-covered-buildings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3531-count-covered-buildings) |
 ## String
 |  |
 | ------- |
@@ -183,6 +184,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [3583-count-special-triplets](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3583-count-special-triplets) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [0611-valid-triangle-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0611-valid-triangle-number) |
+| [3531-count-covered-buildings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3531-count-covered-buildings) |
 ## Sorting
 |  |
 | ------- |
@@ -204,6 +206,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0876-hand-of-straights](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0876-hand-of-straights) |
 | [0853-car-fleet](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0853-car-fleet) |
 | [0611-valid-triangle-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0611-valid-triangle-number) |
+| [3531-count-covered-buildings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3531-count-covered-buildings) |
 ## Divide and Conquer
 |  |
 | ------- |
