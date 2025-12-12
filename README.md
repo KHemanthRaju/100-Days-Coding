@@ -185,6 +185,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [0611-valid-triangle-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0611-valid-triangle-number) |
 | [3531-count-covered-buildings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3531-count-covered-buildings) |
+| [3433-count-mentions-per-user](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3433-count-mentions-per-user) |
 ## Sorting
 |  |
 | ------- |
@@ -207,6 +208,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0853-car-fleet](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0853-car-fleet) |
 | [0611-valid-triangle-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0611-valid-triangle-number) |
 | [3531-count-covered-buildings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3531-count-covered-buildings) |
+| [3433-count-mentions-per-user](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3433-count-mentions-per-user) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -486,6 +488,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0062-unique-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0062-unique-paths) |
 | [1925-count-square-sum-triples](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1925-count-square-sum-triples) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3433-count-mentions-per-user](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3433-count-mentions-per-user) |
 ## Memoization
 |  |
 | ------- |
@@ -596,6 +599,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3433-count-mentions-per-user](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3433-count-mentions-per-user) |
 ## Shortest Path
 |  |
 | ------- |
