@@ -42,6 +42,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0981-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0981-time-based-key-value-store) |
 | [3583-count-special-triplets](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3583-count-special-triplets) |
 | [3531-count-covered-buildings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3606-coupon-code-validator) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0678-valid-parenthesis-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0678-valid-parenthesis-string) |
 | [0131-palindrome-partitioning](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0131-palindrome-partitioning) |
 | [0981-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0981-time-based-key-value-store) |
+| [3606-coupon-code-validator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -186,6 +188,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0611-valid-triangle-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0611-valid-triangle-number) |
 | [3531-count-covered-buildings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3531-count-covered-buildings) |
 | [3433-count-mentions-per-user](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3433-count-mentions-per-user) |
+| [3606-coupon-code-validator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3606-coupon-code-validator) |
 ## Sorting
 |  |
 | ------- |
@@ -209,6 +212,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0611-valid-triangle-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0611-valid-triangle-number) |
 | [3531-count-covered-buildings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3531-count-covered-buildings) |
 | [3433-count-mentions-per-user](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3433-count-mentions-per-user) |
+| [3606-coupon-code-validator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3606-coupon-code-validator) |
 ## Divide and Conquer
 |  |
 | ------- |
