@@ -76,6 +76,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0131-palindrome-partitioning](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0131-palindrome-partitioning) |
 | [0981-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0981-time-based-key-value-store) |
 | [3606-coupon-code-validator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3606-coupon-code-validator) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Sliding Window
 |  |
 | ------- |
@@ -310,6 +311,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0678-valid-parenthesis-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0678-valid-parenthesis-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0131-palindrome-partitioning) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Stack
 |  |
 | ------- |
@@ -493,6 +495,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1925-count-square-sum-triples](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1925-count-square-sum-triples) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3433-count-mentions-per-user](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3433-count-mentions-per-user) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Memoization
 |  |
 | ------- |
