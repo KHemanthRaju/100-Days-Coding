@@ -190,6 +190,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [3531-count-covered-buildings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3531-count-covered-buildings) |
 | [3433-count-mentions-per-user](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3606-coupon-code-validator) |
+| [1584-min-cost-to-connect-all-points](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1584-min-cost-to-connect-all-points) |
 ## Sorting
 |  |
 | ------- |
@@ -264,6 +265,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0695-max-area-of-island](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0695-max-area-of-island) |
 | [0130-surrounded-regions](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0684-redundant-connection) |
+| [1584-min-cost-to-connect-all-points](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1584-min-cost-to-connect-all-points) |
 ## Binary Search
 |  |
 | ------- |
@@ -576,6 +578,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0684-redundant-connection](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0684-redundant-connection) |
 | [0210-course-schedule-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0744-network-delay-time) |
+| [1584-min-cost-to-connect-all-points](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -619,6 +622,10 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
 
 <!-- GitAds-Verify: XDTDS8OMRE7SZJC3ZN2J18F629LXLMAR -->
