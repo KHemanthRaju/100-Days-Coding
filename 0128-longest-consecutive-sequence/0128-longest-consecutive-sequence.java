@@ -5,10 +5,10 @@ class Solution {
         for(int num:nums){
             seen.add(num);
         }
-        for(int i=0;i<seen.size();i++){
-            if(!seen.contains(nums[i]-1)){
+        for(int n:seen){
+            if(!seen.contains(n-1)){
                 int count=1;
-                while(seen.contains(nums[i]+count)){
+                while(seen.contains(n+count)){
                     count++;
                 }
                 longest = Math.max(longest, count);
