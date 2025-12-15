@@ -4,12 +4,11 @@ class Solution {
             return false;
         }
         int[] hashTableS = new int[26];
-        int[] hashTableT = new int[26];
         for(int i=0;i<s.length();i++){
             hashTableS[s.charAt(i)-'a']++;
             hashTableS[t.charAt(i)-'a']--;
         }
-        for(int i=0;i<s.length();i++){
+        for(int i=0;i<hashTableS.length;i++){
             if(hashTableS[i]!=0){
                 return false;
             }
