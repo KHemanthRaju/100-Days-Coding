@@ -5,9 +5,9 @@ class Solution:
             if stack:
                 if ch == ')' and stack[-1]=='(':
                     stack.pop()
-                elif ch == ']' and stack[-1]=='[':
+                elif ch=='}' and stack[-1]=='{':
                     stack.pop()
-                elif ch == '}' and stack[-1] == '{':
+                elif ch==']' and stack[-1]=='[':
                     stack.pop()
                 else:
                     stack.append(ch)
