@@ -111,6 +111,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0160-intersection-of-two-linked-lists](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0768-partition-labels](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0768-partition-labels) |
 | [0611-valid-triangle-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0611-valid-triangle-number) |
+| [0088-merge-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0088-merge-sorted-array) |
 ## Array
 |  |
 | ------- |
@@ -194,6 +195,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0778-swim-in-rising-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0778-swim-in-rising-water) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [0088-merge-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -218,6 +220,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [3531-count-covered-buildings](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3531-count-covered-buildings) |
 | [3433-count-mentions-per-user](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3606-coupon-code-validator) |
+| [0088-merge-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
