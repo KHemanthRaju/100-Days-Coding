@@ -79,6 +79,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [3606-coupon-code-validator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3606-coupon-code-validator) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [1021-remove-outermost-parentheses](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1021-remove-outermost-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -347,6 +348,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0853-car-fleet](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0853-car-fleet) |
 | [0496-next-greater-element-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1021-remove-outermost-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Linked List
 |  |
 | ------- |
@@ -556,6 +558,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0876-hand-of-straights](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0876-hand-of-straights) |
 | [0611-valid-triangle-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0611-valid-triangle-number) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
 | ------- |
