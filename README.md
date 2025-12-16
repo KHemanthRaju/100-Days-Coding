@@ -201,6 +201,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [0088-merge-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0088-merge-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
@@ -298,6 +299,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0981-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0981-time-based-key-value-store) |
 | [0611-valid-triangle-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0611-valid-triangle-number) |
 | [0778-swim-in-rising-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0778-swim-in-rising-water) |
+| [0704-binary-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
