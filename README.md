@@ -78,6 +78,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0981-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0981-time-based-key-value-store) |
 | [3606-coupon-code-validator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3606-coupon-code-validator) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [1021-remove-outermost-parentheses](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -345,6 +346,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0678-valid-parenthesis-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0853-car-fleet) |
 | [0496-next-greater-element-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0496-next-greater-element-i) |
+| [1021-remove-outermost-parentheses](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1021-remove-outermost-parentheses) |
 ## Linked List
 |  |
 | ------- |
