@@ -203,6 +203,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0496-next-greater-element-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0704-binary-search) |
 | [0035-search-insert-position](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0035-search-insert-position) |
+| [1539-kth-missing-positive-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1539-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |
@@ -302,6 +303,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0778-swim-in-rising-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0778-swim-in-rising-water) |
 | [0704-binary-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0704-binary-search) |
 | [0035-search-insert-position](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0035-search-insert-position) |
+| [1539-kth-missing-positive-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1539-kth-missing-positive-number) |
 ## Dynamic Programming
 |  |
 | ------- |
