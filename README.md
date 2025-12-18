@@ -204,6 +204,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0704-binary-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0704-binary-search) |
 | [0035-search-insert-position](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0035-search-insert-position) |
 | [1539-kth-missing-positive-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1539-kth-missing-positive-number) |
+| [0162-find-peak-element](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0162-find-peak-element) |
 ## Sorting
 |  |
 | ------- |
@@ -304,6 +305,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0704-binary-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0704-binary-search) |
 | [0035-search-insert-position](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0035-search-insert-position) |
 | [1539-kth-missing-positive-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1539-kth-missing-positive-number) |
+| [0162-find-peak-element](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0162-find-peak-element) |
 ## Dynamic Programming
 |  |
 | ------- |
