@@ -81,6 +81,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1021-remove-outermost-parentheses](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1021-remove-outermost-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0227-basic-calculator-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0227-basic-calculator-ii) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,6 +90,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [0424-longest-repeating-character-replacement](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0643-maximum-average-subarray-i) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -533,6 +535,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [0227-basic-calculator-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0227-basic-calculator-ii) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Memoization
 |  |
 | ------- |
