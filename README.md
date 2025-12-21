@@ -631,6 +631,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0744-network-delay-time](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0744-network-delay-time) |
 | [1584-min-cost-to-connect-all-points](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1584-min-cost-to-connect-all-points) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1791-find-center-of-star-graph](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1791-find-center-of-star-graph) |
 ## Topological Sort
 |  |
 | ------- |
