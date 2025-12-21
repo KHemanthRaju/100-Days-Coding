@@ -45,6 +45,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [3606-coupon-code-validator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3606-coupon-code-validator) |
 | [0496-next-greater-element-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0496-next-greater-element-i) |
 | [0219-contains-duplicate-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0219-contains-duplicate-ii) |
+| [0997-find-the-town-judge](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0997-find-the-town-judge) |
 ## String
 |  |
 | ------- |
@@ -213,6 +214,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0162-find-peak-element](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0713-subarray-product-less-than-k) |
+| [0997-find-the-town-judge](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
@@ -632,6 +634,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1584-min-cost-to-connect-all-points](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1584-min-cost-to-connect-all-points) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1791-find-center-of-star-graph](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1791-find-center-of-star-graph) |
+| [0997-find-the-town-judge](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
