@@ -215,6 +215,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0219-contains-duplicate-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0713-subarray-product-less-than-k) |
 | [0997-find-the-town-judge](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0997-find-the-town-judge) |
+| [1046-last-stone-weight](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1046-last-stone-weight) |
 ## Sorting
 |  |
 | ------- |
@@ -261,6 +262,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0744-network-delay-time](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0778-swim-in-rising-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0778-swim-in-rising-water) |
+| [1046-last-stone-weight](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
