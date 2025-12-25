@@ -216,6 +216,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0713-subarray-product-less-than-k](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0713-subarray-product-less-than-k) |
 | [0997-find-the-town-judge](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1046-last-stone-weight) |
+| [0506-relative-ranks](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0506-relative-ranks) |
 ## Sorting
 |  |
 | ------- |
@@ -241,6 +242,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [3433-count-mentions-per-user](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3606-coupon-code-validator) |
 | [0088-merge-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0088-merge-sorted-array) |
+| [0506-relative-ranks](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0506-relative-ranks) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -264,6 +266,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0778-swim-in-rising-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0778-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1046-last-stone-weight) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0506-relative-ranks](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
