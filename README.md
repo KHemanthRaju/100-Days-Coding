@@ -217,6 +217,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0997-find-the-town-judge](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1046-last-stone-weight) |
 | [0506-relative-ranks](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0506-relative-ranks) |
+| [0973-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -243,6 +244,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [3606-coupon-code-validator](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3606-coupon-code-validator) |
 | [0088-merge-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0088-merge-sorted-array) |
 | [0506-relative-ranks](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0506-relative-ranks) |
+| [0973-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -251,6 +253,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0053-maximum-subarray](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1014-k-closest-points-to-origin) |
+| [0973-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -267,6 +270,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1046-last-stone-weight](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1046-last-stone-weight) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0506-relative-ranks](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0506-relative-ranks) |
+| [0973-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -284,6 +288,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0347-top-k-frequent-elements](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0347-top-k-frequent-elements) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1014-k-closest-points-to-origin) |
+| [0973-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -558,6 +563,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [0227-basic-calculator-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0227-basic-calculator-ii) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [0973-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0973-k-closest-points-to-origin) |
 ## Memoization
 |  |
 | ------- |
@@ -659,6 +665,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1014-k-closest-points-to-origin) |
+| [0973-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0973-k-closest-points-to-origin) |
 ## Combinatorics
 |  |
 | ------- |
