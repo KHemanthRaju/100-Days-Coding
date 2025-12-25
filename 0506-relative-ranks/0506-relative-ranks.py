@@ -1,10 +1,10 @@
 class Solution:
     def findRelativeRanks(self, score: List[int]) -> List[str]:
         N = len(score)
+        rank = [0] * N
         heap = []
         for index, score in enumerate(score):
             heapq.heappush(heap, (-score, index))
-        rank = [0] * N
         place = 1
         while heap:
             original_index = heapq.heappop(heap)[1]
