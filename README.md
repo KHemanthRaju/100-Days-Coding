@@ -85,6 +85,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0227-basic-calculator-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0227-basic-calculator-ii) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [0014-longest-common-prefix](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -220,6 +221,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0506-relative-ranks](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0973-k-closest-points-to-origin) |
 | [0621-task-scheduler](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0621-task-scheduler) |
+| [0014-longest-common-prefix](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0014-longest-common-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -681,6 +683,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0139-word-break](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0139-word-break) |
+| [0014-longest-common-prefix](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0014-longest-common-prefix) |
 ## Monotonic Queue
 |  |
 | ------- |
