@@ -46,6 +46,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0496-next-greater-element-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0496-next-greater-element-i) |
 | [0219-contains-duplicate-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0219-contains-duplicate-ii) |
 | [0997-find-the-town-judge](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0997-find-the-town-judge) |
+| [0621-task-scheduler](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -218,6 +219,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1046-last-stone-weight](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1046-last-stone-weight) |
 | [0506-relative-ranks](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0973-k-closest-points-to-origin) |
+| [0621-task-scheduler](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
@@ -245,6 +247,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0088-merge-sorted-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0088-merge-sorted-array) |
 | [0506-relative-ranks](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0973-k-closest-points-to-origin) |
+| [0621-task-scheduler](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0621-task-scheduler) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -271,6 +274,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0703-kth-largest-element-in-a-stream](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0506-relative-ranks](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0973-k-closest-points-to-origin) |
+| [0621-task-scheduler](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -282,6 +286,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0383-ransom-note](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [3583-count-special-triplets](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3583-count-special-triplets) |
+| [0621-task-scheduler](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -601,6 +606,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0611-valid-triangle-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0611-valid-triangle-number) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0621-task-scheduler](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0621-task-scheduler) |
 ## Backtracking
 |  |
 | ------- |
