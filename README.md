@@ -228,6 +228,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1863-sum-of-all-subset-xor-totals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [0045-jump-game-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0045-jump-game-ii) |
 | [0057-insert-interval](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0057-insert-interval) |
+| [0056-merge-intervals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0056-merge-intervals) |
 ## Sorting
 |  |
 | ------- |
@@ -256,6 +257,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0506-relative-ranks](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0973-k-closest-points-to-origin) |
 | [0621-task-scheduler](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0621-task-scheduler) |
+| [0056-merge-intervals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0056-merge-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
