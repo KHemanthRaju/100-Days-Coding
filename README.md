@@ -86,6 +86,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0227-basic-calculator-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0227-basic-calculator-ii) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [0014-longest-common-prefix](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0014-longest-common-prefix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -222,6 +223,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0973-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0973-k-closest-points-to-origin) |
 | [0621-task-scheduler](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0621-task-scheduler) |
 | [0014-longest-common-prefix](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0014-longest-common-prefix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Sorting
 |  |
 | ------- |
@@ -525,10 +527,12 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0572-subtree-of-another-tree) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0572-subtree-of-another-tree) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Design
 |  |
 | ------- |
@@ -684,6 +688,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | ------- |
 | [0139-word-break](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0139-word-break) |
 | [0014-longest-common-prefix](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0014-longest-common-prefix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -710,6 +715,10 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1584-min-cost-to-connect-all-points) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
 
 <!-- GitAds-Verify: XDTDS8OMRE7SZJC3ZN2J18F629LXLMAR -->
