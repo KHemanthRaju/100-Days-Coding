@@ -226,6 +226,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0014-longest-common-prefix](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0014-longest-common-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [0045-jump-game-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0045-jump-game-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -373,6 +374,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [0045-jump-game-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0045-jump-game-ii) |
 ## Stack
 |  |
 | ------- |
@@ -619,6 +621,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0621-task-scheduler](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0621-task-scheduler) |
+| [0045-jump-game-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0045-jump-game-ii) |
 ## Backtracking
 |  |
 | ------- |
