@@ -5,4 +5,5 @@ class Solution:
             if i > farthest:
                 return False
             farthest = max(farthest, nums[i]+i)
+            
         return True
