@@ -87,6 +87,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [0014-longest-common-prefix](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0014-longest-common-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [0257-binary-tree-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
 |  |
 | ------- |
@@ -443,6 +444,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0257-binary-tree-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -474,6 +476,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0124-binary-tree-maximum-path-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0778-swim-in-rising-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0778-swim-in-rising-water) |
+| [0257-binary-tree-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -522,6 +525,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0257-binary-tree-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0257-binary-tree-paths) |
 ## String Matching
 |  |
 | ------- |
@@ -624,6 +628,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0040-combination-sum-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0257-binary-tree-paths) |
 ## Monotonic Stack
 |  |
 | ------- |
