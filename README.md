@@ -225,6 +225,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0621-task-scheduler](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0621-task-scheduler) |
 | [0014-longest-common-prefix](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0014-longest-common-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
 | ------- |
@@ -579,6 +580,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0227-basic-calculator-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0227-basic-calculator-ii) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [0973-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0973-k-closest-points-to-origin) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Memoization
 |  |
 | ------- |
@@ -630,6 +632,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0131-palindrome-partitioning](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0401-binary-watch) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -646,6 +649,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0078-subsets](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0078-subsets) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1018-binary-prefix-divisible-by-5) |
 | [0401-binary-watch](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0401-binary-watch) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Merge Sort
 |  |
 | ------- |
@@ -690,6 +694,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | ------- |
 | [0062-unique-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0062-unique-paths) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Trie
 |  |
 | ------- |
@@ -714,6 +719,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1925-count-square-sum-triples) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Brainteaser
 |  |
 | ------- |
