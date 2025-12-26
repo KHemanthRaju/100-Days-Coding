@@ -629,6 +629,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0079-word-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0401-binary-watch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -644,6 +645,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0287-find-the-duplicate-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0287-find-the-duplicate-number) |
 | [0078-subsets](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0078-subsets) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1018-binary-prefix-divisible-by-5) |
+| [0401-binary-watch](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0401-binary-watch) |
 ## Merge Sort
 |  |
 | ------- |
