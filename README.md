@@ -285,6 +285,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0506-relative-ranks](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0973-k-closest-points-to-origin) |
 | [0621-task-scheduler](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0743-network-delay-time) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -483,6 +484,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0787-cheapest-flights-within-k-stops](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0778-swim-in-rising-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0778-swim-in-rising-water) |
 | [0257-binary-tree-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0257-binary-tree-paths) |
+| [0743-network-delay-time](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -508,6 +510,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0994-rotting-oranges](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0994-rotting-oranges) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0778-swim-in-rising-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0778-swim-in-rising-water) |
+| [0743-network-delay-time](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -681,6 +684,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0787-cheapest-flights-within-k-stops](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1791-find-center-of-star-graph](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1791-find-center-of-star-graph) |
 | [0997-find-the-town-judge](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0997-find-the-town-judge) |
+| [0743-network-delay-time](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -721,6 +725,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | ------- |
 | [0744-network-delay-time](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0743-network-delay-time](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0743-network-delay-time) |
 ## Enumeration
 |  |
 | ------- |
