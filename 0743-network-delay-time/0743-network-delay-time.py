@@ -4,15 +4,15 @@ class Solution:
         graph = defaultdict(list)
         for u,v,w in times:
             graph[u].append((v,w))
-        dist = {}
+        dict = {}
         while heap:
-            curr_distance, curr_node = heapq.heappop(heap)
-            if curr_node in dist:
+            curr_dist, curr_node = heapq.heappop(heap)
+            if curr_node in dict:
                 continue
-            dist[curr_node] = curr_distance
-            for neigh, w in graph[curr_node]:
-                if neigh not in dist:
-                    heapq.heappush(heap, (curr_distance+w, neigh))
-        if len(dist)==n:
-            return max(dist.values())
+            dict[curr_node] = curr_dist
+            for neigh,w in graph[curr_node]:
+                if neigh not in dict:
+                    heapq.heappush(heap, (curr_dist+w,neigh))
+        if len(dict)==n:
+            return max(dict.values())
         return -1
