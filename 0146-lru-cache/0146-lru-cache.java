@@ -20,14 +20,14 @@ class LRUCache {
     
     public void put(int key, int value) {
         for(int i=0;i<cache.size();i++){
-            if(cache.get(i)[0] == key){
+            if(cache.get(i)[0]==key){
                 int[] temp = cache.remove(i);
                 temp[1] = value;
                 cache.add(temp);
                 return;
             }
         }
-        if(capacity == cache.size()){
+        if(capacity==cache.size()){
             cache.remove(0);
         }
         cache.add(new int[]{key,value});
