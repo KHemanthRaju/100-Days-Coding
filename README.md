@@ -379,6 +379,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0787-cheapest-flights-within-k-stops](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [0045-jump-game-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0045-jump-game-ii) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Stack
 |  |
 | ------- |
