@@ -229,6 +229,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0045-jump-game-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0045-jump-game-ii) |
 | [0057-insert-interval](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0057-insert-interval) |
 | [0056-merge-intervals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0056-merge-intervals) |
+| [1390-four-divisors](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1390-four-divisors) |
 ## Sorting
 |  |
 | ------- |
@@ -590,6 +591,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [0973-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0973-k-closest-points-to-origin) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1390-four-divisors](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1390-four-divisors) |
 ## Memoization
 |  |
 | ------- |
