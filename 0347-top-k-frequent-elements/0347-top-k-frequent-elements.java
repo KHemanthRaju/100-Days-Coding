@@ -4,7 +4,7 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             map.put(nums[i], map.getOrDefault(nums[i],0)+1);
         }
-        PriorityQueue<Integer> minheap = new PriorityQueue<>();
+        PriorityQueue<Integer> minheap = new PriorityQueue<>((a,b)->map.get(b)-map.get(a));
         for(int key:map.keySet()){
             minheap.add(key);
         }
