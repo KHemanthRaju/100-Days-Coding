@@ -6,16 +6,16 @@ class Solution {
                 if(board[i][j]=='.'){
                     continue;
                 }
-                String str = "("+board[i][j]+")";
-                String rowCheck = i+str;
-                String colCheck = str+j;
-                String boxCheck = i/3+str+j/3;
-                if(seen.contains(rowCheck) || seen.contains(colCheck) || seen.contains(boxCheck)){
+                String point = "("+board[i][j]+")";
+                String row = i+point;
+                String col = point+j;
+                String mat = i/3+point+j/3;
+                if(seen.contains(row) || seen.contains(col) || seen.contains(mat)){
                     return false;
                 }
-                seen.add(rowCheck);
-                seen.add(colCheck);
-                seen.add(boxCheck);
+                seen.add(row);
+                seen.add(col);
+                seen.add(mat);
             }
         }
         return true;
