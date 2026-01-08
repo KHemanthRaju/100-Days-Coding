@@ -5,9 +5,9 @@ class Solution {
         for(int i=0;i<temperatures.length;i++){
             while(!st.isEmpty() && temperatures[i]>st.peek()[1]){
                 int[] temp = st.pop();
-                ans[temp[0]] = i-temp[0];
+                ans[temp[0]] = i - temp[0];
             }
-            st.push(new int[]{i,temperatures[i]});
+            st.add(new int[]{i, temperatures[i]});
         }
         return ans;
     }
