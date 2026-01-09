@@ -9,18 +9,16 @@ class Solution {
             freq1[s1.charAt(i)-'a']++;
             freq2[s2.charAt(i)-'a']++;
         }
-
         for(int i=0;i<s2.length()-s1.length();i++){
-            if(match(freq1,freq2)) return true;
+            if(match(freq1, freq2)) return true;
             freq2[s2.charAt(i+s1.length())-'a']++;
             freq2[s2.charAt(i)-'a']--;
         }
         return match(freq1,freq2);
     }
-
-    public boolean match(int[] freq1, int[] freq2){
-        for(int i=0;i<freq1.length;i++){
-            if(freq1[i]!=freq2[i]) return false;
+    public boolean match(int[] s1, int[] s2){
+        for(int i=0;i<s1.length;i++){
+            if(s1[i]!=s2[i]) return false;
         }
         return true;
     }
