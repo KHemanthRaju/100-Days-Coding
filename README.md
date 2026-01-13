@@ -746,6 +746,10 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
 
 <!-- GitAds-Verify: XDTDS8OMRE7SZJC3ZN2J18F629LXLMAR -->
