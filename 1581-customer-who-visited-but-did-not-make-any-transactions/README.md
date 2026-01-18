@@ -1,6 +1,7 @@
-<h2><a href="https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/">1581. Customer Who Visited but Did Not Make Any Transactions</a></h2><h3>Easy</h3><hr><div class="sql-schema-wrapper__3VBi"><a class="sql-schema-link__3cEg">SQL Schema<svg viewBox="0 0 24 24" width="1em" height="1em" class="icon__1Md2"><path fill-rule="evenodd" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path></svg></a></div><div><p>Table: <code>Visits</code></p>
+<h2><a href="https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions">1724. Customer Who Visited but Did Not Make Any Transactions</a></h2><h3>Easy</h3><hr><p>Table: <code>Visits</code></p>
 
-<pre>+-------------+---------+
+<pre>
++-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
 | visit_id    | int     |
@@ -14,7 +15,8 @@ This table contains information about the customers who visited the mall.
 
 <p>Table: <code>Transactions</code></p>
 
-<pre>+----------------+---------+
+<pre>
++----------------+---------+
 | Column Name    | Type    |
 +----------------+---------+
 | transaction_id | int     |
@@ -36,7 +38,8 @@ This table contains information about the transactions made during the visit_id.
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> 
+<pre>
+<strong>Input:</strong> 
 Visits
 +----------+-------------+
 | visit_id | customer_id |
@@ -75,4 +78,3 @@ Customer with id = 54 visited the mall three times. During 2 visits they did not
 Customer with id = 96 visited the mall once and did not make any transactions.
 As we can see, users with IDs 30 and 96 visited the mall one time without making any transactions. Also, user 54 visited the mall twice and did not make any transactions.
 </pre>
-</div>
