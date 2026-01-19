@@ -12,9 +12,10 @@ class Solution:
             found = (backtrack(r+1,c,index+1) or backtrack(r-1,c,index+1) or backtrack(r, c+1, index+1) or backtrack(r,c-1,index+1))
             board[r][c] = temp
             return found
+            
         for i in range(ROWS):
             for j in range(COLS):
                 if board[i][j] == word[0]:
-                    if(backtrack(i,j,0)):
+                    if backtrack(i,j,0):
                         return True
         return False
