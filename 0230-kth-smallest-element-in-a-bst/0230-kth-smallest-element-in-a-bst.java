@@ -15,14 +15,13 @@
  */
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
-        ArrayList<Integer> ans = helper(root,new ArrayList<>());
+        if(root==null) return 0;
+        ArrayList<Integer> ans = helper(root, new ArrayList<Integer>());
         return ans.get(k-1);
     }
 
     public ArrayList<Integer> helper(TreeNode root, ArrayList<Integer> ans){
-        if(root==null){
-            return ans;
-        }
+        if(root==null) return ans;
         helper(root.left, ans);
         ans.add(root.val);
         helper(root.right, ans);
