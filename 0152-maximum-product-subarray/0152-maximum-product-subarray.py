@@ -3,7 +3,7 @@ class Solution:
         if not nums:
             return 0
         currMax,currMin = 1,1
-        res = 0
+        res = max(nums)
         for num in nums:
             if num == 0:
                 currMin, currMax = 1,1
