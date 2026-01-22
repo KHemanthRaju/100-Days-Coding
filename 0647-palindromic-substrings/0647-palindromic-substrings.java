@@ -7,11 +7,11 @@ class Solution {
         return count;
     }
 
-    public int expand(String s, int i, int j){
+    public int expand(String s, int left, int right){
         int count = 0;
-        while(i>=0 && j<s.length() && s.charAt(i) == s.charAt(j)){
-            i--;
-            j++;
+        while(left>=0 && right<s.length() && s.charAt(left)==s.charAt(right)){
+            left--;
+            right++;
             count++;
         }
         return count;
