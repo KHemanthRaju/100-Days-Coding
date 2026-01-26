@@ -6,4 +6,3 @@ class Solution:
             minValue = min(minValue, prices[i])
             maxN = max(maxN, prices[i]-minValue)
         return maxN
-
