@@ -3,8 +3,8 @@ class Solution:
         mostWater = 0
         left = 0
         right = len(height)-1
-        while left < right:
-            mostWater = max(mostWater, min(height[left], height[right])*(right-left))
+        while left<=right:
+            mostWater = max(mostWater, min(height[right], height[left])*(right-left))
             if height[left]<height[right]:
                 left+=1
             else:
