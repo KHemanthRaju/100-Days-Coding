@@ -1,7 +1,6 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         List<List<Integer>> ans = new ArrayList<>();
-        int completed = 0;
         int[] indegree = new int[numCourses];
         for(int i=0;i<numCourses;i++){
             ans.add(new ArrayList<>());
@@ -11,22 +10,22 @@ class Solution {
             indegree[pre[0]]++;
         }
         Queue<Integer> q = new LinkedList<>();
-        for(int i=0;i<indegree.length;i++){
+        for(int i=0;i<numCourses;i++){
             if(indegree[i]==0){
-                q.add(i);
+                q.offer(i);
             }
         }
+        int completed = 0;
         while(!q.isEmpty()){
-            int a = q.poll();
+            int index = q.poll();
             completed++;
-            for(int num:ans.get(a)){
+            for(int num:ans.get(index)){
                 indegree[num]--;
                 if(indegree[num]==0){
                     q.offer(num);
                 }
             }
-
         }
-        return completed == numCourses?true:false;
+        return completed == numCourses? true:false;
     }
 }
