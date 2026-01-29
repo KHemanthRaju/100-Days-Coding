@@ -756,6 +756,10 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | ------- |
 | [0176-second-highest-salary](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0176-second-highest-salary) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
 
 <!-- GitAds-Verify: XDTDS8OMRE7SZJC3ZN2J18F629LXLMAR -->
