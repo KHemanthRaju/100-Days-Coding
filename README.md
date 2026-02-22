@@ -49,6 +49,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0621-task-scheduler](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0621-task-scheduler) |
 | [0076-minimum-window-substring](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0409-longest-palindrome) |
+| [0169-majority-element](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -237,6 +238,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0057-insert-interval](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0057-insert-interval) |
 | [0056-merge-intervals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0056-merge-intervals) |
 | [1390-four-divisors](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1390-four-divisors) |
+| [0169-majority-element](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
@@ -266,6 +268,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0973-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0973-k-closest-points-to-origin) |
 | [0621-task-scheduler](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0621-task-scheduler) |
 | [0056-merge-intervals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -275,6 +278,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0215-kth-largest-element-in-an-array](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1014-k-closest-points-to-origin) |
 | [0973-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0973-k-closest-points-to-origin) |
+| [0169-majority-element](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -306,6 +310,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0387-first-unique-character-in-a-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [3583-count-special-triplets](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3583-count-special-triplets) |
 | [0621-task-scheduler](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0621-task-scheduler) |
+| [0169-majority-element](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0169-majority-element) |
 ## Quickselect
 |  |
 | ------- |
