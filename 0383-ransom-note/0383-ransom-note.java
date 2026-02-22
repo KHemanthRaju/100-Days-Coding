@@ -1,21 +1,14 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
-        if(ransomNote.length() > magazine.length()){
-            return false;
+        if(ransomNote.length() > magazine.length()) return false;
+        int[] alpha_count = new int[26];
+        for(int i=0;i<magazine.length();i++){
+            alpha_count[magazine.charAt(i)-'a']++;
         }
-        HashMap<Character, Integer> map1 = new HashMap<>();
-        for(char ch:ransomNote.toCharArray()){
-            map1.put(ch, map1.getOrDefault(ch,0)+1);
+        for(int i=0;i<ransomNote.length();i++){
+            if(alpha_count[ransomNote.charAt(i)-'a']==0) return false;
+            alpha_count[ransomNote.charAt(i)-'a']--;
         }
-        for (char ch : magazine.toCharArray()) {
-    Integer cnt = map1.get(ch);
-    if (cnt == null) continue;        // letter not needed
-
-    if (cnt == 1) map1.remove(ch);    // last copy consumed
-    else          map1.put(ch, cnt-1);// still need more
-
-    if (map1.isEmpty()) return true;  // all letters found
-}
-        return false;
+        return true;
     }
 }
