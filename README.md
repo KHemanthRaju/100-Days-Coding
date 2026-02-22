@@ -94,6 +94,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0344-reverse-string](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0344-reverse-string) |
 | [0076-minimum-window-substring](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0409-longest-palindrome) |
+| [0067-add-binary](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -605,6 +606,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0973-k-closest-points-to-origin](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0973-k-closest-points-to-origin) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1390-four-divisors](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1390-four-divisors) |
+| [0067-add-binary](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0067-add-binary) |
 ## Memoization
 |  |
 | ------- |
@@ -676,6 +678,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1018-binary-prefix-divisible-by-5](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1018-binary-prefix-divisible-by-5) |
 | [0401-binary-watch](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0401-binary-watch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [0067-add-binary](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0067-add-binary) |
 ## Merge Sort
 |  |
 | ------- |
@@ -737,6 +740,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | ------- |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3433-count-mentions-per-user](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3433-count-mentions-per-user) |
+| [0067-add-binary](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0067-add-binary) |
 ## Shortest Path
 |  |
 | ------- |
