@@ -351,6 +351,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1539-kth-missing-positive-number](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1539-kth-missing-positive-number) |
 | [0162-find-peak-element](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0162-find-peak-element) |
 | [0713-subarray-product-less-than-k](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0713-subarray-product-less-than-k) |
+| [0278-first-bad-version](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0278-first-bad-version) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -765,6 +766,10 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | ------- |
 | [0133-clone-graph](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0207-course-schedule) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
 
 <!-- GitAds-Verify: XDTDS8OMRE7SZJC3ZN2J18F629LXLMAR -->
