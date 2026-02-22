@@ -16,12 +16,14 @@
 class Solution {
     int diameter = 0;
     public int diameterOfBinaryTree(TreeNode root) {
+        if(root==null){
+            return 0;
+        }
         height(root);
         return diameter;
     }
-
     public int height(TreeNode root){
-        if(root==null){
+        if(root == null){
             return 0;
         }
         int left = height(root.left);
