@@ -9,20 +9,20 @@ class Solution:
         l2 = list2
         ans = ListNode(0)
         head = ans
-        while l1!=None and l2!=None:
-            if l1.val<l2.val:
+        while l1 and l2:
+            if l1.val <= l2.val:
                 ans.next = l1
                 l1 = l1.next
-            else:
+            elif l1.val > l2.val:
                 ans.next = l2
                 l2 = l2.next
             ans = ans.next
-        while l1!=None:
+        while l1:
             ans.next = l1
-            ans=ans.next
             l1 = l1.next
-        while l2!=None:
-            ans.next = l2
             ans = ans.next
+        while l2:
+            ans.next = l2
             l2 = l2.next
+            ans = ans.next
         return head.next
