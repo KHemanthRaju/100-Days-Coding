@@ -20,8 +20,9 @@ class Solution:
             prev = second
             second = temp
         first, second = head, prev
-        while second:
-            temp1, temp2 = first.next, second.next
+        while first and second:
+            temp1, temp2= first.next, second.next
             first.next = second
             second.next = temp1
             first, second = temp1, temp2
+        
