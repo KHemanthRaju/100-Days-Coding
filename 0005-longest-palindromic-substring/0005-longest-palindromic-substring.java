@@ -1,11 +1,11 @@
 class Solution {
     public String longestPalindrome(String s) {
+        int maxLength= 0;
         String ans = "";
-        int maxLength = 0;
         for(int i=0;i<s.length();i++){
-            String oddWord = expand(s,i,i);
-            String evenWord = expand(s,i,i+1);
-            if(oddWord.length()>maxLength){
+            String oddWord = expand(s, i, i);
+            String evenWord = expand(s, i, i+1);
+            if(oddWord.length()> maxLength){
                 maxLength = oddWord.length();
                 ans = oddWord;
             }
@@ -17,11 +17,11 @@ class Solution {
         return ans;
     }
 
-    public String expand(String s, int left, int right){
-        while(left>=0 && right<s.length() && s.charAt(left)==s.charAt(right)){
-            left--;
-            right++;
+    public String expand(String s, int i, int j){
+        while(i>=0 && j<s.length() && s.charAt(i)==s.charAt(j)){
+            i--;
+            j++;
         }
-        return s.substring(left+1, right);
+        return s.substring(i+1,j);
     }
 }
