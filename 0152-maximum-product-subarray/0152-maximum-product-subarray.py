@@ -10,6 +10,6 @@ class Solution:
                 continue
             temp = num * currMax
             currMax = max(num*currMax, num*currMin, num)
-            currMin = min(num*currMax, temp, num)
+            currMin = min(num*currMin, temp, num)
             res = max(res, currMax)
         return res
