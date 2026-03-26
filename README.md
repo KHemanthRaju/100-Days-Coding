@@ -243,6 +243,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0169-majority-element](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0169-majority-element) |
 | [0377-combination-sum-iv](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0377-combination-sum-iv) |
 | [0073-set-matrix-zeroes](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0073-set-matrix-zeroes) |
+| [0054-spiral-matrix](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0054-spiral-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -631,6 +632,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0994-rotting-oranges](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0994-rotting-oranges) |
 | [0778-swim-in-rising-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0778-swim-in-rising-water) |
 | [0073-set-matrix-zeroes](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0073-set-matrix-zeroes) |
+| [0054-spiral-matrix](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0054-spiral-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -746,6 +748,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3433-count-mentions-per-user](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/3433-count-mentions-per-user) |
 | [0067-add-binary](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0067-add-binary) |
+| [0054-spiral-matrix](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0054-spiral-matrix) |
 ## Shortest Path
 |  |
 | ------- |
