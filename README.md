@@ -50,6 +50,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0076-minimum-window-substring](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0409-longest-palindrome) |
 | [0169-majority-element](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0169-majority-element) |
+| [0073-set-matrix-zeroes](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -241,6 +242,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [1390-four-divisors](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1390-four-divisors) |
 | [0169-majority-element](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0169-majority-element) |
 | [0377-combination-sum-iv](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0377-combination-sum-iv) |
+| [0073-set-matrix-zeroes](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0073-set-matrix-zeroes) |
 ## Sorting
 |  |
 | ------- |
@@ -628,6 +630,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0079-word-search](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0994-rotting-oranges) |
 | [0778-swim-in-rising-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0778-swim-in-rising-water) |
+| [0073-set-matrix-zeroes](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0073-set-matrix-zeroes) |
 ## Greedy
 |  |
 | ------- |
