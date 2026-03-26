@@ -96,6 +96,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0076-minimum-window-substring](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0409-longest-palindrome) |
 | [0067-add-binary](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0067-add-binary) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -474,6 +475,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0124-binary-tree-maximum-path-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0257-binary-tree-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -507,6 +509,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0778-swim-in-rising-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0778-swim-in-rising-water) |
 | [0257-binary-tree-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0257-binary-tree-paths) |
 | [0743-network-delay-time](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0743-network-delay-time) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -533,6 +536,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0787-cheapest-flights-within-k-stops](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0778-swim-in-rising-water](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0778-swim-in-rising-water) |
 | [0743-network-delay-time](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0743-network-delay-time) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -557,6 +561,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0124-binary-tree-maximum-path-sum](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0257-binary-tree-paths](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -578,6 +583,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0146-lru-cache](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0146-lru-cache) |
 | [0981-time-based-key-value-store](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0981-time-based-key-value-store) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
