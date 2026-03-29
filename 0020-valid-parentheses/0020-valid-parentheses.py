@@ -5,7 +5,7 @@ class Solution:
             if st:
                 if ch == ')' and st[-1]=='(':
                     st.pop()
-                elif ch ==']' and st[-1]=='[':
+                elif ch == ']' and st[-1]=='[':
                     st.pop()
                 elif ch == '}' and st[-1]=='{':
                     st.pop()
