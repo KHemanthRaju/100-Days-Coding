@@ -14,7 +14,7 @@ class Solution:
         while p1 or p2:
             x = p1.val if p1 else 0
             y = p2.val if p2 else 0
-            sum1 = x+y+carry
+            sum1 = x + y + carry
             carry = sum1//10
             curr.next = ListNode(sum1%10)
             curr = curr.next
