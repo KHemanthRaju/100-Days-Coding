@@ -10,7 +10,7 @@ class Solution:
             return True
         left = self.height(root.left)
         right = self.height(root.right)
-        if abs(right-left)>1:
+        if abs(right-left) > 1:
             return False
         return self.isBalanced(root.left) and self.isBalanced(root.right)
     
@@ -18,3 +18,4 @@ class Solution:
         if root is None:
             return 0
         return 1+max(self.height(root.left), self.height(root.right))
+        
