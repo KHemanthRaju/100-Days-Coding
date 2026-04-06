@@ -22,11 +22,11 @@ class Solution {
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
         while(!q.isEmpty()){
-            ArrayList<Integer> res = new ArrayList<>();
+            ArrayList<Integer> cool = new ArrayList<>();
             int len = q.size();
             for(int i=0;i<len;i++){
                 TreeNode node = q.poll();
-                res.add(node.val);
+                cool.add(node.val);
                 if(node.left!=null){
                     q.add(node.left);
                 }
@@ -34,8 +34,9 @@ class Solution {
                     q.add(node.right);
                 }
             }
-            ans.add(res);
+            ans.add(cool);
         }
         return ans;
+        
     }
 }
