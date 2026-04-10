@@ -15,12 +15,13 @@
  */
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        if(root==null) return true;
+        if(root==null) return false;
         ArrayList<Integer> ans = new ArrayList<>();
         inOrder(root, ans);
-        int prev = ans.get(0);
+        int n = ans.size();
         boolean isBST = true;
-        for(int i=1;i<ans.size();i++){
+        int prev = ans.get(0);
+        for(int i=1;i<n;i++){
             if(prev>=ans.get(i)){
                 isBST = false;
             }
