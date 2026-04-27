@@ -3,10 +3,10 @@ class Solution {
         if(intervals.length==0 || intervals==null){
             return new int[0][0];
         }
-        Arrays.sort(intervals, (a,b)->Integer.compare(a[0],b[0]));
         List<int[]> ans = new ArrayList<>();
+        Arrays.sort(intervals, (a,b) -> Integer.compare(a[0],b[0]));
         for(int[] interval:intervals){
-            if(ans.isEmpty() || ans.get(ans.size()-1)[1]<interval[0]){
+            if(ans.isEmpty() || ans.get(ans.size()-1)[1] < interval[0]){
                 ans.add(interval);
             }else{
                 int[] last = ans.get(ans.size()-1);
