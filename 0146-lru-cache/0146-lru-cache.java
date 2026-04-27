@@ -1,37 +1,36 @@
 class LRUCache {
-    ArrayList<int[]> cache;
+    ArrayList<int[]> ans;
     int capacity;
 
     public LRUCache(int capacity) {
-        this.cache = new ArrayList<>();
         this.capacity = capacity;
+        ans = new ArrayList<>();
     }
     
     public int get(int key) {
-        for(int i=0;i<cache.size();i++){
-            if(cache.get(i)[0]==key){
-                int[] temp = cache.remove(i);
-                int ans = temp[1];
-                cache.add(temp);
-                return ans;
+        for(int i=0;i<ans.size();i++){
+            if(ans.get(i)[0] == key){
+                int[] tmp = ans.remove(i);
+                ans.add(tmp);
+                return tmp[1];
             }
         }
         return -1;
     }
     
     public void put(int key, int value) {
-        for(int i=0;i<cache.size();i++){
-            if(cache.get(i)[0]==key){
-                int[] temp = cache.remove(i);
-                temp[1] = value;
-                cache.add(temp);
+        for(int i=0;i<ans.size();i++){
+            if(ans.get(i)[0]==key){
+                int[] tmp = ans.remove(i);
+                tmp[1] = value;
+                ans.add(tmp);
                 return;
             }
         }
-        if(cache.size()==capacity){
-            cache.remove(0);
+        if(capacity == ans.size()){
+            ans.remove(0);
         }
-        cache.add(new int[]{key, value});
+        ans.add(new int[]{key, value});
     }
 }
 
