@@ -250,6 +250,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0054-spiral-matrix](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0054-spiral-matrix) |
 | [0048-rotate-image](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0048-rotate-image) |
 | [0406-queue-reconstruction-by-height](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0406-queue-reconstruction-by-height) |
+| [1029-two-city-scheduling](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1029-two-city-scheduling) |
 ## Sorting
 |  |
 | ------- |
@@ -282,6 +283,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0169-majority-element](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0295-find-median-from-data-stream) |
 | [0406-queue-reconstruction-by-height](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0406-queue-reconstruction-by-height) |
+| [1029-two-city-scheduling](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1029-two-city-scheduling) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -674,6 +676,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0621-task-scheduler](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0621-task-scheduler) |
 | [0045-jump-game-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0045-jump-game-ii) |
 | [0409-longest-palindrome](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0409-longest-palindrome) |
+| [1029-two-city-scheduling](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1029-two-city-scheduling) |
 ## Backtracking
 |  |
 | ------- |
