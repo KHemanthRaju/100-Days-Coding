@@ -249,6 +249,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0073-set-matrix-zeroes](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0073-set-matrix-zeroes) |
 | [0054-spiral-matrix](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0054-spiral-matrix) |
 | [0048-rotate-image](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0048-rotate-image) |
+| [0406-queue-reconstruction-by-height](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0406-queue-reconstruction-by-height) |
 ## Sorting
 |  |
 | ------- |
@@ -280,6 +281,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0056-merge-intervals](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0295-find-median-from-data-stream) |
+| [0406-queue-reconstruction-by-height](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0406-queue-reconstruction-by-height) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -809,6 +811,14 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0278-first-bad-version) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
 
 <!-- GitAds-Verify: XDTDS8OMRE7SZJC3ZN2J18F629LXLMAR -->
