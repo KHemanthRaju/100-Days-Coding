@@ -251,6 +251,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0048-rotate-image](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0048-rotate-image) |
 | [0406-queue-reconstruction-by-height](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0406-queue-reconstruction-by-height) |
 | [1029-two-city-scheduling](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1029-two-city-scheduling) |
+| [0746-min-cost-climbing-stairs](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0746-min-cost-climbing-stairs) |
 ## Sorting
 |  |
 | ------- |
@@ -411,6 +412,7 @@ My Leetcode Profile : https://leetcode.com/KHemanthRaju/
 | [0045-jump-game-ii](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0045-jump-game-ii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [0377-combination-sum-iv](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0377-combination-sum-iv) |
+| [0746-min-cost-climbing-stairs](https://github.com/KHemanthRaju/100-Days-Coding/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
